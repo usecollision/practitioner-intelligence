@@ -29,7 +29,7 @@ practitioner-intelligence/
 └── scripts/               ← inventory generators (data-driven, re-runnable)
 ```
 
-## Status (Cycle 1 — 2026-08-14)
+## Status (Cycle 1 → Wave 1 — 2026-08-14)
 
 | Step | Status |
 |---|---|
@@ -37,8 +37,15 @@ practitioner-intelligence/
 | Skill inventory with maturity scoring | ✅ done |
 | Practitioner master map (38 disciplines) | ✅ done |
 | Source verification (Exa, 18 key names) | ✅ done |
-| Deep source research | ⏳ Wave 1 |
-| Skill gap analyses → proposals | ⏳ Wave 1 |
+| WAVE 1 — Paid strategy/media planning | ✅ research + implementation (4 skills → M4, pushed) |
+| WAVE 1 — CRO & experimentation | ✅ research + implementation (3 skills → M4, pushed) |
+| WAVE 1 — Positioning & messaging | ✅ research + implementation (3 skills → M4, pushed) |
+| WAVE 2 — SEO / AI search / creative | ⏳ research in flight |
+| WAVE 3 — Customer research / outbound / email | ⏳ research in flight |
+| WAVE 4 — remaining disciplines | ⏳ planned |
+| Re-audit + final quality pass | ⏳ planned |
+
+Skills upgraded so far (10): paid-strategy, media-planning, performance-reporting, mmm-incrementality, cro-audit, ab-testing, experiment-prioritization, positioning-framework, conversion-copywriting, offer-design.
 
 ## Pipeline (per spec §19)
 
