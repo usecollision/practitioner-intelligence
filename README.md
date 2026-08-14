@@ -29,23 +29,22 @@ practitioner-intelligence/
 └── scripts/               ← inventory generators (data-driven, re-runnable)
 ```
 
-## Status (Cycle 1 → Wave 1 — 2026-08-14)
+## Status (full program — 2026-08-15)
 
 | Step | Status |
 |---|---|
 | Repository audit (6 repos, 137 skills) | ✅ done |
 | Skill inventory with maturity scoring | ✅ done |
 | Practitioner master map (38 disciplines) | ✅ done |
-| Source verification (Exa, 18 key names) | ✅ done |
-| WAVE 1 — Paid strategy/media planning | ✅ research + implementation (4 skills → M4, pushed) |
-| WAVE 1 — CRO & experimentation | ✅ research + implementation (3 skills → M4, pushed) |
-| WAVE 1 — Positioning & messaging | ✅ research + implementation (3 skills → M4, pushed) |
-| WAVE 2 — SEO / AI search / creative | ⏳ research in flight |
-| WAVE 3 — Customer research / outbound / email | ⏳ research in flight |
-| WAVE 4 — remaining disciplines | ⏳ planned |
-| Re-audit + final quality pass | ⏳ planned |
+| WAVE 1 — Paid strategy / CRO / positioning-messaging | ✅ research + implementation (10 skills → M4) |
+| WAVE 2 — SEO / AI search / creative | ✅ research + implementation (11 skills → M4) |
+| WAVE 3 — Customer research / outbound / email | ✅ research + implementation (7 skills → M4) |
+| WAVE 4 — Social / PR / partnerships / GTM / pricing / analytics / DTC | ✅ research + implementation (27 skills → M4) |
+| Adjacency sweep (thin-field honest treatment, platform ads) | ✅ 7 skills → M4 |
+| Re-audit + final quality pass | ✅ 62/137 M4 · validators pass |
+| Final record | ✅ backlog/final-record.md |
 
-Skills upgraded so far (10): paid-strategy, media-planning, performance-reporting, mmm-incrementality, cro-audit, ab-testing, experiment-prioritization, positioning-framework, conversion-copywriting, offer-design.
+**62 skills upgraded to M4** · 17 syntheses · 87 practitioner dossiers · ~140 practitioners · 13 commits across 6 repos + this one. Remaining 75 skills documented in final-record.md with reasons (thin fields, near-duplicates, org-source disciplines).
 
 ## Pipeline (per spec §19)
 
