@@ -29,22 +29,18 @@ practitioner-intelligence/
 └── scripts/               ← inventory generators (data-driven, re-runnable)
 ```
 
-## Status (full program — 2026-08-15)
+## Status (COMPLETE — 2026-08-15)
 
 | Step | Status |
 |---|---|
-| Repository audit (6 repos, 137 skills) | ✅ done |
-| Skill inventory with maturity scoring | ✅ done |
-| Practitioner master map (38 disciplines) | ✅ done |
-| WAVE 1 — Paid strategy / CRO / positioning-messaging | ✅ research + implementation (10 skills → M4) |
-| WAVE 2 — SEO / AI search / creative | ✅ research + implementation (11 skills → M4) |
-| WAVE 3 — Customer research / outbound / email | ✅ research + implementation (7 skills → M4) |
-| WAVE 4 — Social / PR / partnerships / GTM / pricing / analytics / DTC | ✅ research + implementation (27 skills → M4) |
-| Adjacency sweep (thin-field honest treatment, platform ads) | ✅ 7 skills → M4 |
-| Re-audit + final quality pass | ✅ 62/137 M4 · validators pass |
-| Final record | ✅ backlog/final-record.md |
+| Cycle 1: audit, inventory, master map | ✅ |
+| Waves 1-4 (62 skills) | ✅ |
+| Cycle 2: remaining 75 skills, expert panels, exhaustive search | ✅ |
+| **Final re-audit** | ✅ **137/137 M4** · validators pass |
 
-**62 skills upgraded to M4** · 17 syntheses · 87 practitioner dossiers · ~140 practitioners · 13 commits across 6 repos + this one. Remaining 75 skills documented in final-record.md with reasons (thin fields, near-duplicates, org-source disciplines).
+**137/137 skills M4-complete** · 27 syntheses · 165 practitioner dossiers · 834 sources · 19 skill-gap records · 21 commits across 7 repos.
+
+Complete outputs: `complete-expert-map.md` · `complete-source-index.md` · `complete-methodology-library.md` · `complete-consensus-map.md` · `complete-contradiction-map.md` · `complete-failure-knowledge-base.md` · `complete-skill-gaps.md` · `complete-skill-evolution.md` · `backlog/remaining-skills-audit.md` · `backlog/final-comprehensive-audit.md` · `backlog/final-record.md`
 
 ## Pipeline (per spec §19)
 

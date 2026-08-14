@@ -1,0 +1,840 @@
+# COMPLETE SOURCE INDEX — every cited source
+
+Assembled 2026-08-15 from domain dossiers and skill Sources sections.
+
+- "About Mike Blumenthal" | https://blumenthals.com/blog/about-mike-blumenthal/ | primary bio | tier 2 | 2026-08-14
+- "Ask Questions even your mom can't lie to" — Indie Hackers | https://www.indiehackers.com/post/ask-questions-even-your-mom-cant-lie-to-rob-fitzpatrick-b312cdd464 | interview | tier 2 | 2026-08-15
+- "CRO just doesn't cut it anymore" | linkedin.com/posts/jonnymac_conversion-rate-optimization-just-doesnt-activity-7188170193079099393-pySr | post | 1 | 2026-08-14
+- "Crawl Budget Management — Google Crawling Infrastructure" | https://developers.google.com/crawling/docs/crawl-budget | official Google documentation | tier 1 | 2026-08-14
+- "Enterprise SEO Audit" | https://patrickstox.com/enterprise-seo/audits-and-governance/enterprise-seo-audit/ | primary practitioner site | tier 1 | 2026-08-14
+- "Every week I see the same PAINFUL MISTAKES stopping B2B/SaaS orgs..." | https://www.linkedin.com/posts/samdunning_every-week-i-see-the-same-painful-mistakes-activity-7219653043405942784-6TH5 | primary practitioner post | tier 1 | 2026-08-14
+- "Everything passed, why spam?" (LinkedIn) | https://www.linkedin.com/posts/aliverson_email-authentication-deliverability-activity-7329918587547144192-kW9S | social post | 1 | 2026-08-15
+- "Free SEO Recommendations Prioritization & Presentation Templates" | https://www.aleydasolis.com/en/search-engine-optimization/seo-recommendations-prioritization-presentation-templates/ | primary practitioner resource | tier 1 | 2026-08-14
+- "Google March 2024 Core Update Case Study: A tale of four tremors, reversals..." | gsqi.com (referenced in search results) | primary practitioner blog | tier 1 | 2026-08-14
+- "Google's Broad Core Algorithm Updates: Important Points And Frequently Answered Questions" | https://www.gsqi.com/marketing-blog/google-broad-core-updates-important-points-and-frequently-answered-questions/ | primary practitioner blog | tier 1 | 2026-08-14
+- "Google's Broad Core Updates And The Difference Between Relevancy Adjustments, Intent Shifts, And Overall Site Quality Problems" | https://www.gsqi.com/marketing-blog/google-broad-core-updates-difference-between-relevancy-adjustments-intent-shifts-overall-site-quality/ | primary practitioner blog | tier 1 | 2026-08-14
+- "Google's Local Primary Data Suppliers Around the World" | https://blumenthals.com/blog/2013/03/28/googles-primary-data-suppliers-worldwide/ | primary practitioner research | tier 1 | 2026-08-14
+- "How Does the Local Algorithm Work?" (Moz Whiteboard Friday) | https://moz.com/blog/how-does-the-local-algorithm-work | primary practitioner presentation | tier 1 | 2026-08-14
+- "Keyword Search Volume: 5 Things You Need to Know to Avoid SEO Mistakes" | https://ahrefs.com/blog/keyword-search-volume/ | primary practitioner blog | tier 1 | 2026-08-14
+- "Learning From Negative Tests — Will Critchlow, Voices of Search" | https://voicesofsearch.com/episode/seo-testing-101-will-critchlow-searchpilot/learning-from-negative-tests-will-critchlow-searchpilot/ | podcast interview | tier 2 | 2026-08-14
+- "Local Citation Building Best-Practices" | https://whitespark.ca/blog/local-citation-building-best-practices/ | primary practitioner blog | tier 1 | 2026-08-14
+- "MozCon 2020 — Great Expectations: The Truth About Digital PR" | https://www.slideshare.net/slideshow/mozcon-2020-great-expectations-the-truth-about-digital-pr/236894043 | primary practitioner presentation | tier 1 | 2026-08-14
+- "Positioning is more complicated AND less complicated than you think" | https://www.linkedin.com/posts/anthonypierri_positioning-is-more-complicated-and-less-activity-7486080598843981824-2BLu | primary social essay | tier 1 | 2026-08-14
+- "SEO Case Study: How I Increased My Organic Traffic 652% in 7 Days" (Skyscraper 2.0) | https://backlinko.com/skyscraper-technique-2-0 | primary practitioner case study | tier 1 | 2026-08-14
+- "SEO in the Age of AI: Expert Insights from Kevin Indig" | https://learn.g2.com/professional-spotlight-kevin-indig | interview | tier 2 | 2026-08-14
+- "SEO is a Product Effort" | https://www.productledseo.com/p/seo-is-a-product-effort | primary practitioner site | tier 1 | 2026-08-14
+- "Supercharge Your Link Building Outreach! 5 Tips for Success" (Moz Whiteboard Friday) | https://moz.com/blog/link-building-outreach | primary practitioner presentation | tier 1 | 2026-08-14
+- "Technical SEO Audits: Prioritized, Engineering-Ready Fixes" | https://patrickstox.com/services/technical-seo-audits/ | primary practitioner site | tier 1 | 2026-08-14
+- "The Future of Link Building: What Got Us Here, Won't Get Us There" | https://aira.net/blog/the-future-of-link-building-what-got-us-here-wont-get-us-there/ | primary practitioner blog | tier 1 | 2026-08-14
+- "The Future of Search Is Product-Led with Eli Schwartz" (Marketing Speak podcast) | https://www.marketingspeak.com/the-future-of-search-is-product-led-with-eli-schwartz/ | interview | tier 2 | 2026-08-14
+- "The Impact of Core Updates and Search Intent on Your SEO" | https://www.amsive.com/insights/seo/cracking-googles-code-the-impact-of-core-updates-and-search-intent-on-your-seo/ | primary practitioner column (MozCon 2023 adaptation) | tier 1 | 2026-08-14
+- "The Math Behind SearchPilot: How SEO A/B Testing Actually Works" | https://www.searchpilot.com/resources/blog/the-math-behind-searchpilot-how-seo-a/b-testing-actually-works | primary practitioner blog | tier 1 | 2026-08-14
+- "The Secrets Behind Animalz Own Content Strategy" (interview with Ben Goodey) | https://www.spicymargarita.co/archive/animalz-content-strategy/ | interview | tier 2 | 2026-08-14
+- "The changing dynamic of programmatic SEO" | https://www.growth-memo.com/p/the-changing-dynamic-of-programmatic | primary newsletter | tier 1 (highlights via Exa; full text paywalled) | 2026-08-14
+- "This boring SaaS AI SEO strategy prints demos in 90 days (copy these 7 steps)" | https://www.linkedin.com/posts/samdunning_this-boring-saas-ai-seo-strategy-prints-demos-activity-7469701099331928064-e7m- | primary practitioner post | tier 1 | 2026-08-14
+- "Video: Wild Google Ranking Volatility, Reddit Special Preference, Big Google Executive Shakeup & More Search News" | https://www.seroundtable.com/video-08-07-2026-41834.html | primary practitioner publication | tier 1 | 2026-08-14
+- "We Analyzed 8,186 Businesses in 200 Cities. Here's What Actually Gets You Ranking for 'Near Me' in 2025" | https://www.sterlingsky.ca/what-gets-you-ranking-for-near-me-2025/ | primary practitioner study | tier 1 | 2026-08-14
+- "What is Topical Authority? How does Topical Authority Work?" | https://www.holisticseo.digital/theoretical-seo/topical-authority/ | primary practitioner resource | tier 1 | 2026-08-14
+- "What is a Ranking Factor?" | https://www.tcapper.co.uk/what-is-a-ranking-factor/ | primary practitioner resource | tier 1 | 2026-08-14
+- "What we can learn from losing SEO tests" | https://www.searchpilot.com/resources/blog/will-critchlow-what-we-can-learn-from-losing-seo-tests | primary practitioner blog | tier 1 | 2026-08-14
+- "What we've learned from building 40,000+ links for clients" (TechCrunch) | https://techcrunch.com/2020/03/25/what-weve-learned-from-building-40000-links-for-clients/ | primary practitioner article | tier 1 | 2026-08-14
+- #280 Ethical experimentation | uxpodcast.com/280-experimentation-ethics-craig-sullivan/ | podcast | 2 | 2026-08-14
+- $100M Offers summary & analysis | https://www.scalabl.com/literature/100m-offers/ | credible secondary | tier 2 | 2026-08-14
+- 'Data to Action' workshop post | linkedin.com/posts/benlabay_ive-finally-figured-out-the-lynchpin-ritual-activity-7239604523357323264 | post | 1 | 2026-08-14
+- (1.0 layer) Outreach to sites linking to the weaker existing content.
+- **Analyze like customer research**: what problem is the viewer already aware of? what promise is being made? what objections are being addressed? which messages appear often enough to be worth testing?
+- **Big-bang vs rolling thunder:** big-bang for big news with an existing audience; rolling/staged for niche or complex products (T2).
+- **Build the swipe file**: save ads with notes; Foreplay-class tools turn inspiration into organized creative work and briefs.
+- **Close the loop**: research only pays when it becomes ads in the auction — spot the winner, launch variants, repeat (AdsUploader).
+- **Find every competitor ad**: direct search → regional pages (Brand USA vs Brand EU) → product-specific pages → parent company/sister brands → reverse from creative (distinctive copy line) → map the category with generic product searches to surface unknown entrants.
+- **Frequency** (Geisler "more than you think" vs Atkins "more isn't better"): high-intent onboarding lists absorb more; reputation-sensitive bulk sends don't. Decision: match frequency to engagement, not to ambition.
+- **Monetization timing** (launch fast vs monetize late): Oshinsky's one-new-revenue-stream-per-year is the operational middle: launch fast, prove format, add one stream/year.
+- **Newsjacking vs planned campaigns:** keep the PESO system, leave reaction slots (newsjacking lanes) inside the calendar (T1).
+- **Open rate value post-MPP** (Schwedelson optimizes opens vs White: clicks/engagement): opens stay directional on Gmail/Outlook-heavy lists; engagement is the goal either way.
+- **Press release dead vs alive:** releases work as owned records + newsjacked second-paragraph content, not as coverage generators (Zitron/Meerman Scott — T1).
+- **Read their strategy from creative themes**: what pain points lead? lifestyle vs product shots? video vs static ratio? heavy social proof? "If every ad screams price, they're competing on cost. If craftsmanship, they're defending margin."
+- 13 Writing Rules | https://annhandley.com/13-writing-rules/ | primary | tier 1 | 2026-08-14
+- 18 Simple Ways to F\*\*\* up Your AB Testing | slideshare.net/slideshow/measurecamp-18-simple-ways-to-f-u/32891967 | deck | 1 | 2026-08-14
+- 2025 pricing year in review / 2026 trends | substack.com/@kylepoyar/note/c-196463953 | T1 | 2026-08-15
+- 25 Rules For Running a Great Newsletter | https://inboxcollective.com/25-rules-for-running-a-great-newsletter/ | blog | 1 | 2026-08-15
+- 2–3 hour interviews, 2–3 people at a time; validate the job; build a job map step by step; under each step ask "what are you trying to accomplish?" and "anything you're trying to avoid?"; capture 5–6 outcome statements per step; type in real time so customers see and correct (PROCESS, T1 — AgileData).
+- 3 Part Conversion Copywriting Process for Newbies | https://copyhackers.com/3-part-conversion-copywriting-process-for-newbies/ | primary | tier 1 | 2026-08-14
+- 3 Strategies That Can Survive AI Search In 2026: What I Shared At SEJ Live | https://www.searchenginejournal.com/strategies-that-can-survive-ai-search-in-2026-what-i-shared-at-sej-live/570260/ | article | 1 | 2026-08-15
+- 5 Landing Page Headline Formulas Tested + CTA copy critiqued | unbounce.com (2 articles) | articles | 1 | 2026-08-14
+- 5 Real-World A/B Test Failures (Heap case) | statology.org/5-real-world-a-b-test-failures-and-what-went-wrong/ | secondary | 3 | 2026-08-14
+- 6 Options for Determining Amazon Ad Campaign Starting Bids | blog.ppcentourage.com | article (primary) | tier 1 | 2026-08-15 (via Exa excerpt)
+- 99 Hook Templates | https://copyposse.com/wp-content/uploads/2023/10/Copy-Posse-99-Hook-Templates.pdf | primary resource | tier 1 | 2026-08-14
+- A Behind-The-Scenes Look into Creating Direct Response Copy (11 rules) | https://www.awai.com/2024/03/creating-direct-response-copy/ | credible secondary (his letter) | tier 2 | 2026-08-14
+- A Quickstart Guide to Positioning | aprildunford.com/post/a-quickstart-guide-to-positioning | T1 | 2026-08-15
+- A Simple A/B Test that Generated a 31.54% Lift in Sign-ups | unbounce.com/a-b-testing/conversion-lift-in-signups/ | case study | 1 | 2026-08-14
+- AI Cold Email Stack vs Offer-First: What Works | https://alexberman.com/ai-cold-email-stack-vs-offer-first-what-works | blog | 1 | 2026-08-15
+- AI Overviews Reduce Clicks by 34.5% | https://ahrefs.com/blog/ai-overviews-reduce-clicks/ | study | 1 | 2026-08-15
+- AMZ Pathfinder homepage + case studies (Viter Energy, Ash, ThinkGizmos, 88% NTB SB stat) | amzpathfinder.com | agency site | tier 1 | 2026-08-15
+- ASO Mobile, Apple Search Ads and ASO | asomobile.net | tier 2 | 2026-08-15
+- ATTN Agency, Spotify & Audio Ads for Ecommerce | attnagency.com | tier 2 | 2026-08-15
+- About The Good | thegood.com/about-the-good/ | 1P | 1 | 2026-08-14
+- Ad Results Media (AdAge), Is programmatic the future of podcast advertising? | adresultsmedia.com | tier 2 | 2026-08-15
+- AdBacklog, Reddit Ads Benchmarks per Industry | adbacklog.com/blog | tier 3 | 2026-08-15
+- AdExchanger, Twitter retargeting (2013, history) | adexchanger.com | tier 2 | 2026-08-15
+- Adapting to the Most Active Inbox Provider Environment Ever | https://www.emailmarketingrules.com/adapting-to-the-most-active-inbox-provider-environment-ever/ | blog | 1 | 2026-08-15
+- Adapty, Apple Ads best practices (Advanced-only) | adapty.io/blog/apple-ads-best-practices | tier 2 | 2026-08-15
+- Adapty, Apple Search Ads 2026: cost, placements, bidding | adapty.io/blog | tier 2 | 2026-08-15
+- Adele Revella on Building Better Buyer Personas — Klue Blindspots podcast | https://blindspots.klue.com/episode/how-to-build-better-buyer-personas-with-adele-revellas-5-step-framework | podcast page | tier 2 | 2026-08-15
+- Admiral Media, ASA benchmarks | admiral.media | tier 3 | 2026-08-15
+- AdsUploader — Meta Ads Library: The Complete 2026 Guide | https://adsuploader.com/blog/meta-ads-library | tier 2 | 2026-08-15
+- Affiliate World Forums, HilltopAds Twitter case | affiliateworldforums.com | tier 5 | 2026-08-15
+- Affinco, Small Budget Snapchat Ads | affinco.com | tier 3 | 2026-08-15
+- Aggregate across calls — the underused win: "which competitor was mentioned in deals lost in the last 90 days" was previously a quarterly survey + rep memory; build aggregate queries in the FIRST 90 days of deployment (Rework).
+- Aggregate the week's search news (SERPs, GSC features, crawler behavior, Ads).
+- AgileData.io podcast: Outcome-Driven Innovation with Tony Ulwick | https://agiledata.io/podcast/outcome-driven-innovation/ | podcast transcript | tier 2 | 2026-08-15
+- Ahrefs blog canon (Traffic Potential metric documentation, referenced) | tier 1 | 2026-08-14
+- Ahrefs schema experiment (counter-evidence) | https://ahrefs.com/blog/schema-ai-citations/ | study | 1 | 2026-08-15
+- Aibrify — Threads Marketing 2026 | aibrify.com | tier 4 | 2026-08-15
+- Ainna — Market sizing FAQ (pitfalls: confirmation bias, single-method) | ainna.ai/resources/faq/market-sizing-tam-sam-som-faq | T3 | 2026-08-15
+- Airbnb Engineering — Monitoring customer issues at scale | https://medium.com/airbnb-engineering/how-airbnb-manages-to-monitor-customer-issues-at-scale-b883301ca461 | tier 2 | 2026-08-15
+- Aleyda Solis — International SEO Checklist + hreflang generator | moz.com/blog/the-international-seo-checklist; aleydasolis.com | tier 1 | 2026-08-15
+- All NEW Data-Based Email Marketing Tips (MarketingProfs B2B Forum) | https://mpb2b.marketingprofs.com/2024/07/17/all-new-data-based-email-marketing-tips-with-jay-schwedelson/ | presentation | 1 | 2026-08-15
+- Alltomate — Zapier Workflow Examples: 4 Real Automation Patterns | alltomate.com/blogs/zapier-workflow-examples | T2 | 2026-08-15
+- Alltomate — n8n Error Handling: Error Triggers, Retries & Recovery | alltomate.com/blogs/n8n-error-handling | T2 | 2026-08-15
+- Amazon Advertising During Covid19 — QA Selling Online Podcast (Apr 2020) | qasellingonline.com | interview | tier 1 | 2026-08-15
+- Amazon Advertising Expert & Founder of AMZ Pathfinder — QA Selling Online Podcast (3rd appearance, Nov 2020) | qasellingonline.com | interview | tier 1 | 2026-08-15
+- Amazon Review Manipulation Suspensions 2026: What Actually Triggers Them (SellerSprite cases — packaging insert $28k frozen, 23-day reinstatement) | sellersprite.com | case analysis | tier 3 (aligned with McCabe's warnings) | 2026-08-15
+- Amazon's New Sponsored Brands Reports (with Michael Erickson Facchin, Ad Badger) | amzpathfinder.com | podcast/blog | tier 2 | 2026-08-15
+- Amplemarket — Buying intent signals 2026 comparison | https://www.amplemarket.com/blog/buying-intent-signals-2026 | tier 3 (vendor) | 2026-08-15
+- Analyze for structured signals: objections, competitor mentions, next-step commitments, pricing-discussion timing, question frequency, sentiment arc (Rework signal table).
+- Animalz essays (referenced canon; "content that converts" school) | tier 1/2 | 2026-08-14
+- Answer 5 fixed monthly questions: what to double down on / what causes churn / missing features across segments / what competitors do that works / where messaging disconnects.
+- AppFollow — App Store review analysis | https://appfollow.io/blog/app-store-review-analysis | tier 3 | 2026-08-15
+- AppRadar/SplitMetrics, ASA Advanced guide | appradar.com | tier 2 | 2026-08-15
+- Assess whether the drop is site-quality-driven vs SERP-intent shift by examining which queries/industries moved.
+- AssignmentHelpCenter — Five Forces Apple worked example (industry vs company, scope, dynamics) | assignmenthelpcenter.com/blogs/porters-five-forces-apple-example | T2 | 2026-08-15
+- Audit (technical, international, GEO as appropriate).
+- Audit GBP setup: address visibility, categories, service-area settings, landing page.
+- Audit account structure and search-term hygiene.
+- Audit against the known site-wide issue patterns (the six above).
+- Audit existing citations (accuracy, duplicates, inconsistencies).
+- Audit rendering strategy and JS execution for enterprise sites (e-commerce, publishing).
+- Backlinko archives (skyscraper canon, referenced) | tier 1 | 2026-08-14
+- Balance PageRank internally toward the most authoritative source pages (FRAMEWORK).
+- Bass practitioner repo — Bass Diffusion Model (analog selection, p/q ranges, sanity checks) | github.com/ziah-lin/bass-diffusion-model | T2 | 2026-08-15
+- Baymard (commissioned by Amazon Pay) — Optimizing Checkout to Reduce Abandonment (Scribd mirror) | scribd.com/document/793114501 | T2 | 2026-08-15
+- Baymard Institute — E-Commerce Cart & Checkout Usability Research (research overview) | baymard.com/research/checkout-usability | T1 | 2026-08-15
+- Baymard — Cart abandonment rate list | baymard.com/lists/cart-abandonment-rate | T1 | 2026-08-15
+- Baymard — Checkout flow average form fields | baymard.com/blog/checkout-flow-average-form-fields | T1 | 2026-08-15
+- Baymard — Checkout optimization from 16 fields to 8 | baymard.com/blog/checkout-optimization-from-16-fields-to-8 | T1 | 2026-08-15
+- Before trusting a ranking-factor claim, ask: which of the four explanations fits?
+- Behavior-based follow-up: download → wait → email → opened? case study → clicked? notify sales → no engagement after N? recycle to newsletter (skill-consistent; Linearity's nurture/onboarding/re-engagement families).
+- Behavioral depth: what questions people ask, context of mentions, platform diversity (Spate-adjacent practice) (T2).
+- Benchmarks are account-relative: CTR ≥1.5x your historical median before significant paid budget.
+- BigSentiment — G2 review analysis tools | https://bigsentiment.com/g2-review-analysis-tools.html | tier 3 | 2026-08-15
+- Both closeups and saves below median after 2 iterations → pause that creative pattern.
+- Branding5 — Brand positioning map how-to (current vs desired position) | branding5.com/how-to-create-a-brand-positioning-map-to-crush-your-competition | T3 | 2026-08-15
+- Breakthrough Advertising (book, 1966) | canonical text; not fetched this session | tier 1 | —
+- Breakthrough Advertising: Eugene Schwartz Principles (detailed exegesis) | https://themarketingjuice.com/eugene-schwartz-breakthrough-advertising-copywriting/ | credible secondary | tier 2 | 2026-08-14
+- Brent Zahradnik — Head of ADSP at SellerPlex | linkedin.com/in/brentzahradnik | profile | tier 2 | 2026-08-15
+- Bucket eligible pages into statistically similar control/variant groups (randomization per-user doesn't work — crawlers are single visitors; pages carry their own traffic history/seasonality).
+- Build a keyword-pattern model for programmatic pages (e.g., location/feature/use-case matrices).
+- Build a newsroom pipeline: monitor news cycles and journalist beats.
+- Build a topical graph for the target topic (entities, attributes, sub-topics, question-based cornerstones).
+- Build bottom-up first: segment → count buyers → price per segment (ARPU/ACV) → multiply.
+- Build campaigns by volume tier; set bids from the 6-option framework; weekly harvest loop.
+- Build frequency × severity × ARR matrix; weight by unique-customer count and account value, not ticket count.
+- Build net-new bottom-funnel pages; study what ranks in Google and what gets cited in AI answers; "blow it out the water" with customer research, unique stats, product visuals, proof points, answers to tough sales-call questions; answer up front (LLMs pull from it).
+- Build own "best X software" listicles with fair comparisons (where you're a good AND poor fit) to control the narrative.
+- Build the appeal with root cause + corrective + preventive actions; escalate through the right channels.
+- Build the asset as product work (with engineering, not just content marketing).
+- Build the asset with the target audience in mind.
+- Build/claim listings with exact NAP consistency.
+- Build/rebuild the page to satisfy intent better than current top results.
+- Business Brainz — ITSMA F.I.R.E. methodology | https://businessbrainz.com/blogs/f-i-r-e-for-abm-glory | tier 3 | 2026-08-15
+- BusinessWire, Measured CTV data (5x/10x over/under-report) | businesswire.com | tier 2 | 2026-08-15
+- CRO Research: How to Find What to Test Before You Run a Single Experiment | mida.so/blog/cro-research-find-what-to-test | secondary summary of ResearchXL | 3 | 2026-08-14
+- CTR > 2x account median AND save rate > median → promote via paid or pin to priority boards.
+- Cadence for Experimentation Meetings blueprint | speero.com/blueprints/cadence-for-experimentation-meetings | blueprint | 1 | 2026-08-14
+- Calendly — Lead routing 101: examples, best practices, automation tips | calendly.com/blog/lead-routing | T2 | 2026-08-15
+- Carta — Market Size: TAM, SAM, SOM | carta.com/learn/startups/metrics/market-size/ | T2 | 2026-08-15
+- Casey Response — Lead Response Time Statistics (compilation incl. Velocify, HBR/MIT figures) | caseyresponse.com/blog/lead-response-time-statistics | T2 | 2026-08-15
+- Chad White, lifecycle + re-permission | emailmarketingrules.com | tier 1 | 2026-08-15
+- Cheapest de-risking test for the biggest unknown: usually a pre-sale or landing page with pricing (ProofEngine) (T2).
+- Check whether the claim is about ordering (ranking factor) or inclusion (relevance/indexation) — different mechanisms.
+- CheckThat — Rho reviews (cross-channel bias example) | https://checkthat.ai/brands/rho/reviews | tier 3 | 2026-08-15
+- Choose topics whose top pages actually earn traffic (not just volume).
+- Chris McCabe contributor bio | junglescout.com/contributors/chris-mccabe | profile | tier 2 | 2026-08-15
+- Christian Holst — "Reasons for Cart Abandonment – Why 70% of Do So" | baymard.com/blog/ecommerce-checkout-usability-report-and-benchmark | T1 | 2026-08-15
+- Classify each cluster: relevancy adjustment (content no longer relevant), intent shift (SERP now rewards a different content type), or quality problem (important queries + relevant content still losing).
+- Classify the full sample (AI-assisted); allow ONE taxonomy revision halfway, then freeze (taxonomy drift delays decisions).
+- Classify: fad (months) / trend (1-3 years) / shift (5+ years, structural) (existing skill) (T2).
+- Claude Hopkins: An Early Advocate of Test-Measure-Refine | https://analyticstrategy.com/claude-hopkins-test-measure-refine/ | credible secondary | tier 2 | 2026-08-14
+- Clay Christensen's Milkshake Marketing — HBS Working Knowledge | https://www.library.hbs.edu/working-knowledge/clay-christensens-milkshake-marketing | university article | tier 1 | 2026-08-15
+- Clay — Job changes signal | https://www.clay.com/changelog/job-changes-signal | tier 2 (vendor) | 2026-08-15
+- Clearbit — How to automate marketing ops workflows with Clearbit and Zapier | clearbit.com/resources/guides/Zapier-automate-marketing-ops-workflows | T2 | 2026-08-15
+- Cohort-split by company size, industry, role, product tier.
+- Coinis, X Ads glossary 2026 | coinis.com/glossary/x-ads-twitter-ads | tier 3 | 2026-08-15
+- Cold Email Offer Strategy & Gmail AI Inbox Breakdown | https://alexberman.com/cold-email-offer-first-ai-inbox-2026 | blog | 1 | 2026-08-15
+- Cold Email: Offer and Targeting Beat Copywriting | https://alexberman.com/cold-email-offer-targeting-vs-copywriting | blog | 1 | 2026-08-15
+- Common Thread Collective, Snapchat wrote a case study about our work (Quay) | commonthreadco.com | tier 1 | 2026-08-15
+- Competing Against Luck (book, cited in JTBD Radio/mattress interview) | https://jobstobedone.org/radio/the-mattress-interview-qa/ | book + podcast reference | tier 2 | 2026-08-15
+- Competition in a Positioning Exercise (podcast ep) | https://www.positioning.show/competition-in-a-positioning-exercise/ | primary podcast | tier 1 | 2026-08-14
+- Competitive monitoring: scheduled crawl → parse → diff vs last state → alert only on material change → log (Olostep/n8n).
+- Compliance first: consent flows before recording; retention policies; "recording without consent creates legal exposure that negates the operational value" (Rework).
+- Compute opportunity (unmet need) scores; ideate solutions against underserved outcomes (e.g., Bosch case: 14 unmet needs).
+- Confidence-weight the verdict; define the no-go evidence explicitly (existing skill) (T2).
+- Continuous Monitoring of A/B Tests without Pain: Optional Stopping in Bayesian Testing (Microsoft Research; validates/caveats the Goodson school) | microsoft.com/en-us/research/publication/continuous-monitoring-of-a-b-tests-without-pain-optional-stopping-in-bayesian-testing/ | paper | 2 | 2026-08-14
+- Conversion Optimization Process for High Converting Websites | conversionsciences.com/conversion-optimization-process/ | article | 1 | 2026-08-14
+- Conversion optimization services page | getuplift.co/conversion-optimization-services-and-consulting/ | 1P | 1 | 2026-08-14
+- Convert each issue/opportunity into a recommendation: goal-aligned, solution-oriented, scoped, with impact and effort ratings.
+- Converting PPC Traffic: 99.4% more conversions (Saxo Bank) | marketingexperiments.com/conversion-marketing/value-converts-ppc-traffic | case study | 2 | 2026-08-14
+- Correlate with known/rumored update dates.
+- Cover entities with accurate, unique, expert information; link contextually with descriptive anchors.
+- Create a shareable asset (study, report, interactive, survey) matched to media beats.
+- Create stories with genuine news value (data, surveys, expert commentary, timely angles).
+- Crescitaly — Pinterest Analytics 2026: Pins, Reports and KPIs | blog.crescitaly.com | tier 4 | 2026-08-15
+- Cross-check against top-down category growth; reconcile methods (gap >2x = assumption error) (T2).
+- Cross-check top-down with analyst/industry reports; normalize definitions, dates, geography.
+- Crossing the Chasm Ch. 3 "The D-Day Analogy" summary | https://fredlybrand.com/2019/08/17/moores-crossing-the-chasm-ch-03-the-d-day-analogy/ | credible secondary | tier 2 | 2026-08-14
+- Customer Development Manifesto Part 5: Path of Warriors and Winners | https://steveblank.com/2009/09/17/the-path-of-warriors-and-winners/ | blog essay | tier 1 | 2026-08-15
+- Customer Development in a Diagram | https://steveblank.com/2012/12/12/customer-development-in-a-diagram/ | blog + reader comment (practitioner testimony) | tier 1 | 2026-08-15
+- Customer-centric and Holistic Email Marketing (Email Marketing Heroes) | https://emailmarketingheroes.com/holistic-email-marketing-kath-pay/ | interview | 2 | 2026-08-15
+- Dan McGaw — UTM Parameters Best Practices: 21-Point Checklist | web.utm.io/blog/utm-parameters-best-practices | T1 | 2026-08-15
+- Dan McGaw — UTM and UTM convention best practices | funnel.io/blog/utm-and-utm-convention-best-practices | T1 | 2026-08-15
+- Dan Oshinsky, Inbox Collective 25 rules | inboxcollective.com | tier 1 | 2026-08-15
+- Dataslayer, Pinterest reporting mistakes | dataslayer.ai | tier 3 | 2026-08-15
+- David Meerman Scott — Newsjacking | davidmeermanscott.com | tier 1 | 2026-08-15
+- Define player universe with inclusion/exclusion criteria + geographic/segment perimeter (T2).
+- Define product-decision taxonomy before reading.
+- Define the industry precisely: buyer job + substitutability, geography, segment; state the scope and justify it (assignmenthelpcenter; DrinkBird) (T2).
+- Define the market and unit of account (job, not product category).
+- Define the market: pick the people and the job (from customer input) (PROCESS, T1 — Produx Labs).
+- Define the precise target audience (not keyword-first).
+- Demand Discovery — platform framework (7 signals, demand scoring) | demanddiscovery.ai | T3 | 2026-08-15
+- Demandbase — Buyer Intent (evidence not proof) | https://www.demandbase.com/blog/buyer-intent/ | tier 2 (vendor) | 2026-08-15
+- Design a credible methodology (sample, analysis, caveats) so journalists trust it.
+- Determine user intent for the target keyword.
+- Determine which asset type satisfies the query best (product page vs article vs tool vs database).
+- Diagnose listing problems by tracing data provenance.
+- Diagnose suspension type and severity (policy vs performance; review-related vs IP-related).
+- Direct Marketing To A Starving Crowd | https://thegaryhalbertletter.com/newsletters/direct_marketing_to_a_starving_crowd.htm | primary | tier 1 | 2026-08-14
+- Directive Consulting, Twitter Ads Manager: B2B Retargeting on X | directiveconsulting.com | tier 2 | 2026-08-15
+- Don't scale paid until a pin clears ≥2 organic iterations with measurable lift.
+- Don't value ATTRIBUTION over EFFECTIVENESS | linkedin.com/posts/chriswalker171 (2020-04-25) | T1 | 2026-08-15
+- DrinkBird — Industry structure: Five Forces applied to tech | blog.drinkbird.com/courses/engineers-mba/02-strategy/01-porters-five-forces | T2 | 2026-08-15
+- Durability analysis: driver test + JTBD durability (old job + new solution = durable) + counter-signals; if you can't find the bear case, you haven't looked (existing skill) (T2).
+- EP. 63 — BEST Time to Send Email Campaign? (Jay's Scoop) | https://jayschwedelson.com/captivate-podcast/ep-63-best-time-to-send-email-campaign-i-jays-scoop/ | podcast | 1 | 2026-08-15
+- EasyCommerce — What Is Cart Abandonment (secondary; adds Dynamic Yield device split) | easycommerce.dev/blog/what-is-cart-abandonment | T2 | 2026-08-15
+- Ed Zitron — 5 reasons reporters hate your pitches | thenextweb.com | tier 1 | 2026-08-15
+- Ehrenberg-Bass Institute, "Answering critics" (B. Sharp) | marketingscience.info | tier 1 | 2026-08-14
+- Ehrenberg-Bass Institute, "Does advertising only work via driving intentions and preference? No!" (B. Sharp) | marketingscience.info | tier 1 | 2026-08-14
+- Ehrenberg-Bass Institute, "Media planning: Who do you have to reach… is three really the magic number?" | marketingscience.info | tier 1 | 2026-08-14
+- Ehrenberg-Bass Institute, "Mental availability is not awareness, brand salience is not awareness" (B. Sharp) | marketingscience.info | tier 1 | 2026-08-14
+- Ehrenberg-Bass Institute, "What causes the Double Jeopardy law?" (B. Sharp) | marketingscience.info | tier 1 | 2026-08-14
+- Eliminate duplicate/parameter URLs; block unimportant ones (sort orders, infinite-scroll dupes) with robots.txt.
+- Eliminate soft 404s (they keep getting crawled).
+- Email Hosting Hacks: No longer working? | https://www.spamresource.com/2025/05/email-hosting-hacks-no-longer-working.html | blog | 1 | 2026-08-15
+- Email Marketing Strategist Kath Pay (bio/services) | https://www.holisticemailmarketing.com/email-marketing-consultant/kath-pay-email-marketing-strategist/ | site | 1 | 2026-08-15
+- Emotional Targeting 101: Leverage the Power of Emotions for CRO | getuplift.co/emotional-targeting-leverage-the-power-of-emotion-to-grow-conversions/ | article | 1 | 2026-08-14
+- Ensure NAP accuracy at the suppliers themselves (the root of the citation chain).
+- Ensure template quality — each page must carry unique value (data, entities, differentiation), not just swapped tokens.
+- Entertainment Strategy Guy — Bass Diffusion Model Explained (m as error source) | entertainmentstrategyguy.com/2019/09/11 | T2 | 2026-08-15
+- Entity-first SEO playbook (Search Engine Land, Barry Schwartz — same school of thought, corroborates entity framing) | https://searchengineland.com/guide/entity-first-content-optimization | guide | 2 | 2026-08-15
+- Enumerate players by force, including substitutes outside the industry: LLMs, in-house builds, behavioral change, "do nothing" (DrinkBird; existing skill) (T2).
+- Eric Seufert, "How does LTV/CAC fit into a growth strategy?" | mobiledevmemo.com | tier 1 | 2026-08-14
+- Eric Seufert, "It's time to retire the LTV metric" | mobiledevmemo.com | tier 1 | 2026-08-14
+- Eric Seufert, "Media mix models are the future of mobile advertising" | mobiledevmemo.com | tier 1 | 2026-08-14
+- Eric Seufert, "The emerging marketing economist" | mobiledevmemo.com | tier 1 | 2026-08-14
+- Estimate effect with credible interval; decide rollout vs rollback vs rerun.
+- Estimate spend-to-rank math: clicks-per-sale × CPC = cost per sale (e.g., 7 clicks × $1.50 = $10/sale) — he admits the math is rough ("I actually think this math is a little off"), use as directional.
+- Everybody Writes 2nd ed. — Part II intro | https://www.oreilly.com/library/view/everybody-writes-2nd/9781119854166/p02.xhtml | primary book excerpt | tier 1 | 2026-08-14
+- Examine top-ranking pages and their total traffic footprint.
+- ExchangeWire, CTV measurement challenges | exchangewire.com | tier 2 | 2026-08-15
+- Expert Advice On Amazon Seller Compliance, Black Hat Tactics & More (AM/PM Podcast #379 with Kevin King) | ampmpodcast.com | interview | tier 1 | 2026-08-15
+- Export ≥500 interactions over 3–6 months with metadata (date, segment, product area, resolution time, satisfaction).
+- Extract Feature-Pain-Outcome triples per review.
+- Feed a recurring loop: insights → messaging/content updates → monitor next wave of calls for adoption and response (Corey: "not a one-and-done project").
+- Filter to high-volume, high-relevance terms; check competitor positions (top-25 competitor rank, units/day to beat).
+- Filter transcripts first (team, CRM filters, call type, mentions) — "make the haystack smaller" (Corey).
+- Find gaps with demand evidence; name the move each gap implies (industry-lens) (T2).
+- Find subreddits: signal check — 10k–500k members, posts <7 days old, >10 comments/thread; below that too quiet.
+- Find the biggest problem worth solving with these three product rules | https://producthabits.com/the-three-product-rules/ | primary blog | tier 1 | 2026-08-14
+- Fit Bass parameters per analog (nonlinear least squares); scenario band = slowest↔fastest analog (T2).
+- Five Biggest Pricing Mistakes | saasmag.com/five-biggest-saas-pricing-mistakes | T1 | 2026-08-15
+- Five Strategies for Slaying the Data Puking Dragon | kaushik.net/avinash/slaying-data-puking-dragon-effective-dashboards | T1 | 2026-08-15
+- Fix My Churn's Val Geisler on supercharging email onboarding (Intercom podcast) | https://www.intercom.com/blog/podcasts/fix-my-churns-val-geisler-on-how-to-supercharge-your-email-onboarding/ | podcast | 1 | 2026-08-15
+- Fix the landing page content (real words, relevance).
+- Flywheel to Fly: Kickstarting and Growing the A/B testing Momentum at Scale | lukasvermeer.nl/publications/papers/2021/10/27/flywheel-to-fly... | paper | 1 | 2026-08-14
+- For dynamically generated content: examine server logs + IA + technical parity to correct index coverage.
+- Formulate testable SEO change (title tags, boilerplate removal, schema, internal links, content).
+- Forrester: NPS Q&A Part 1: Controversy, Fit, And Alternatives | https://www.forrester.com/blogs/nps-qa-part-1-controversy-fit-and-alternatives/ | analyst blog | tier 2 | 2026-08-15
+- Fractl studies (referenced canon) | tier 2 | 2026-08-14
+- Frame the problem: buyer's terms, old-way mechanism contrast, trigger moment, POV statement; test with real buyers before investing (existing skill; Raskin-adjacent) (T2).
+- Full account audit: seller metrics, listing compliance, packaging/communications, supply chain docs.
+- Funnelish, Snapchat Ads worth it in 2026? | funnelish.com | tier 3 | 2026-08-15
+- GEO, LLMO, AEO… It's All Just SEO | https://ahrefs.com/blog/geo-is-just-seo/ | article | 1 | 2026-08-15
+- GEO-Bench: Benchmarking Ranking Manipulation in Generative Engine Optimization | https://arxiv.org/html/2605.29107v2 | paper | 1 | 2026-08-15
+- GEO: Generative Engine Optimization (KDD 2024) | https://arxiv.org/html/2311.09735v2 | paper | 1 | 2026-08-15
+- GTM motions of 30 B2B SaaS companies | lennysnewsletter.com/p/gtm-motions | T1 | 2026-08-15
+- Gartner — Hype Cycle Research Methodology | gartner.com/en/research/methodologies/gartner-hype-cycle | T1 | 2026-08-15
+- Gate: whitespace (problem buyers can't name) + visibly different solution + budget for multi-year education + CEO willingness (existing skill; Lochhead) (T2).
+- Gather public data (pricing pages, changelogs, comparison copy, G2 themes, job posts as roadmap leaks) — dated (T2).
+- Gini Dietrich — PESO model | spinsucks.com/peso-model | tier 1 | 2026-08-15
+- Gmail Email sender guidelines (authoritative baseline) | https://support.google.com/mail/answer/81126 | docs | 2 | 2026-08-15
+- Go Fish Digital — Pinterest for ecommerce | gofishdigital.com | tier 3 | 2026-08-15
+- Gong — Conversation Intelligence | https://www.gong.io/conversation-intelligence | tier 2 (vendor) | 2026-08-15
+- Gong — Objection Handling (67,149-call analysis) | https://www.gong.io/resources/guides/objection-handling-for-sales | tier 2 (vendor) | 2026-08-15
+- Google Webmaster MythBuster / SEO Fairytales series participation (referenced) | tier 2 | 2026-08-14
+- Google — hreflang documentation | developers.google.com/search/docs | tier 1 (FACT) | 2026-08-15
+- Growth Loops are the New Funnels (2018) | Reforge | T1 | 2026-08-15 (via gtm-labs.co/resources/growth-engine-framework)
+- Growth-Engines — eCommerce Checkout Optimization (secondary synthesis citing Baymard numbers) | growth-engines.com/insights/ecommerce/ecommerce-checkout-optimization | T2 | 2026-08-15
+- GrowthSpree, Quora Ads for B2B SaaS | growthspreeofficial.com | tier 2 | 2026-08-15
+- HG Insights — ABM strategy and data intelligence | https://hginsights.com/blog/account-based-marketing-strategy-how-data-intelligence-drives-better-abm-results/ | tier 2 | 2026-08-15
+- Hand-read 50–100 tickets; draft 8–15 top-level categories (billing, onboarding, feature requests, bugs, how-to, account access, performance). Treat existing platform tags as a starting point, not truth. Reconcile AI-drafted taxonomy with your own read.
+- Hashmeta, Podcast Advertising: Host-Read vs Programmatic | hashmeta.com | tier 2 | 2026-08-15
+- High Impact Writing (course site) | https://highimpactwriting.co/ | primary | tier 1 | 2026-08-14
+- High impressions, low closeups → change creative hook or first 30 chars of description.
+- HockeyStack — Account-Based Intelligence explained | https://www.hockeystack.com/blog-posts/account-based-intelligence-explained | tier 2 (vendor) | 2026-08-15
+- How AI Search Should Be Shaping Your CEO's & CMO's Strategy | https://www.searchenginejournal.com/ai-search-shaping-your-strategy/551490/ | article | 1 | 2026-08-15
+- How Andre Chaperon Developed His Unique "Soap Opera Story" Formula (interview) | https://yaro.blog/andre-chaperon/ | interview | tier 2 | 2026-08-14
+- How Failed A/B Tests Can Increase Conversion Rates | unbounce.com/a-b-testing/failed-ab-test-results/ | case study | 1 | 2026-08-14
+- How Important is Framing, Naming, & Claiming a Problem? (podcast) | https://lochhead.com/how-important-is-framing-naming-and-claiming-a-problem-pirates-perspective/ | primary podcast | tier 1 | 2026-08-14
+- How Predictable Revenue Built Its Outbound Validation Program | https://predictablerevenue.com/blog/how-predictable-revenue-built-its-innovative-new-outbound-validation-program/ | blog | 1 | 2026-08-15
+- How VWO Calculates a Winning Variation | help.vwo.com/hc/en-us/articles/360033471874 | docs | 1 | 2026-08-14
+- How Your Privacy Policy Affects Sign-Ups — 4 A/B tests | duncanjonesnz.com/michael-aagaard-how-your-privacy-policy-affects-sign-ups... | case study reprint | 2 | 2026-08-14
+- How do you establish product metrics to evaluate success? | askgib.substack.com/p/how-do-you-establish-product-metrics | T1 | 2026-08-15
+- How to Come Up with More Winning Tests Using Data (ResearchXL) | cxl.com/blog/how-to-come-up-with-more-winning-tests-using-data/ | article | 1 | 2026-08-14
+- How to Create a CRO Process | cxl.com/conversion-rate-optimization/how-to-create-a-cro-process-by-peep-laja/ | article | 1 | 2026-08-14
+- How to Design a Killer SaaS Sales Email (SaaStock video transcript) | https://saastock.com/blog/video-how-to-design-a-killer-saas-sales-email-steli-efti | video/transcript | 1 | 2026-08-15
+- How to Empower Your Sales Team (Lion Program, Coffee Talks) | https://blog.nextinymarketing.com/empower-your-sales-team | podcast/blog | 2 | 2026-08-15
+- How to Optimize Amazon PPC with Mike Zagare (video transcript) | zonguru.com/blog/amazon-ppc-keyword-optimization | interview/tutorial | tier 1 | 2026-08-15
+- How to Run a JTBD Switch Interview (Step by Step) | https://jobstobedone.org/switch-interview/ | practitioner guide | tier 1 | 2026-08-15
+- How to Scale Experimentation in Different Structures | speero.com/post/how-to-scale-experimentation-in-different-structures... | article | 1 | 2026-08-14
+- How to Validate Website Design Changes: A Decision Framework | thegood.com/insights/website-design-changes/ | article | 1 | 2026-08-14
+- How to Write Emails People Actually Want to Read (podcast interview) | https://teresaheathwareing.com/podcast-all/how-to-write-emails-people-actually-want-to-read-with-laura-belgray/ | interview | tier 2 | 2026-08-14
+- How to audit your website strategically | getuplift.co/how-to-audit-your-website-strategically-and-unlock-more-meaningful-conversions/ | article | 1 | 2026-08-14
+- How to create your POV | https://www.categorypirates.news/p/category-design-tip-create-your-pov | primary newsletter | tier 1 | 2026-08-14
+- How to design a business that dominates its niche (book excerpt) | https://www.playbigger.com/media/how-to-design-a-business-that-dominates-its-niche | primary | tier 1 | 2026-08-14
+- How to scale your SaaS business faster with the ProductLed System | https://productled.com/blog/productled-gtm-system | primary blog | tier 1 | 2026-08-14
+- How to win your first 10 B2B customers | lennysnewsletter.com/p/how-to-win-your-first-10-b2b-customers | T1 | 2026-08-15
+- HubSpot — Reddit marketing mistakes to avoid | https://blog.hubspot.com/marketing/reddit-marketing-mistakes | tier 2 | 2026-08-15
+- Hyperoptic form teardown + Crimes of UX #10 | linkedin.com/posts/craigsullivan_* (2 posts) | teardowns | 1 | 2026-08-14
+- IBISWorld — Industry life cycles and Five Forces strategy | ibisworld.com/blog/using-porter-s-five-forces-to-develop-business-strategies | T2 | 2026-08-15
+- IF B2B and budget < $50/day THEN don't start X as a prospecting channel; use it only as a governed retargeting layer fed by other channels (Directive, HEURISTIC, T2).
+- IF B2B research-heavy category (comparison, "best X", how-to questions) THEN test Quora as a consideration-capture stream at 5–15% of search budget (Pecánek/GrowthSpree, HEURISTIC, T2).
+- IF CPA is high in week 1 THEN optimize angles/ads/sites — do NOT kill the campaign or cut budget (Sattler, EMPIRICAL, T1).
+- IF CPA looks bad THEN decompose CPM/CTR/CVR before touching bids (AdBacklog, HEURISTIC, T3).
+- IF CTV dashboard ROAS looks bad THEN check halo channels (branded search, direct, Amazon/retail) before cutting (WorkMagic/Prescient, EMPIRICAL, T2).
+- IF DTC fashion/beauty/accessories/lifestyle targeting Gen Z THEN test Snap with DPAs + native creative before writing it off (CTC, EMPIRICAL, T2).
+- IF ROAS looks weak THEN check portfolio pattern first — CTC sees 3.6–12.8x range by vertical; sub-3x signals approach failure, not platform failure (CTC, EMPIRICAL, T2).
+- IF SQL→Opportunity <20% after 60–90 days THEN raise the SQL bar (OnTheFuze, HEURISTIC, T2).
+- IF a Google Ads account exists THEN import to Microsoft Ads, then treat the import as a starting point: re-check bids, negatives (no negative broad), extensions, geo, and device targets (Mackey/Raehsler, FRAMEWORK, T1).
+- IF a breaking story has a credible tie and <4h internal approval THEN newsjack with second-paragraph content; else skip (Meerman Scott, HEURISTIC, T1).
+- IF a campaign lacks question volume for your niche THEN don't force it — Quora needs existing question activity (GrowthSpree, HEURISTIC, T2).
+- IF a campaign underperforms on Bing but wins on Google THEN check match-type nuances and bid calibration before killing (LSEO/Mackey, HEURISTIC, T2).
+- IF a checkout fix is proposed THEN prefer layout/form-feature/microcopy changes first — they are the cheapest and most frequent wins (Baymard, FRAMEWORK, T1).
+- IF a client/account has older-skewing, higher-income, or Windows/Office/LinkedIn-adjacent ICP THEN prioritize Microsoft Ads — its audience differs from Google's (Mackey/Microsoft, EMPIRICAL, T2).
+- IF a demo request comes in THEN override the score and route immediately (Prospeo, HEURISTIC, T2).
+- IF a format/stream fails twice THEN retire it (synthesis, HEURISTIC, T2).
+- IF a keyword underperforms THEN run a discovery test (high CPT + low CPA target) before killing it (SearchAdsMaven, HEURISTIC, T2).
+- IF a lead is rejected by sales THEN recycle to nurture with a coded reason (OnTheFuze, FRAMEWORK, T2).
+- IF a long form must stay long THEN group into 3 logical steps — perceived simplicity wins (+11–14%) (Baymard, EMPIRICAL, T1).
+- IF a native campaign is unprofitable after 4 weeks of structured testing THEN cut on KPI thresholds, never gut feel (Sattler, HEURISTIC, T1).
+- IF a new UTM value is proposed THEN require lowercase + hyphens and a canonical source/medium pair (McGaw, TACTIC, T2).
+- IF a subreddit's active audience < pilot budget requires THEN don't run it there (Stackmatix, HEURISTIC, T3).
+- IF a workflow has no error path THEN add error trigger + retries + alerting before enabling (n8n/Alltomate, EMPIRICAL, T2).
+- IF a workflow runs unattended THEN give it an owner, documentation, and a quarterly relevance review (Zapier/Olostep, HEURISTIC, T2).
+- IF abandonment is attributed to "browsing" THEN exclude that segment from checkout optimization targets (Baymard, EMPIRICAL, T1).
+- IF above-threshold leads don't convert ≥2x below-threshold leads THEN recalibrate the model (Ivris, HEURISTIC, T2).
+- IF account creation is required to purchase THEN make guest checkout the default and offer account creation post-purchase (Baymard, EMPIRICAL, T1).
+- IF an external link lacks source/medium/campaign THEN it doesn't ship (Usermaven, HEURISTIC, T2).
+- IF an inbound lead is high-intent THEN route within 5 minutes; response time is the biggest lever (Oldroyd, EMPIRICAL, T1).
+- IF app has subscription/in-app revenue AND budget >$10k/mo THEN run Advanced only, with revenue-attribution (MMP/SKAdNetwork) — never Basic for optimization (Adapty/AppRadar, HEURISTIC, T2).
+- IF automating lead intake THEN include filters for bad records and required-field checks (Alltomate, EMPIRICAL, T2).
+- IF bidding on competitors THEN cap at top 1–3, defensive posture (SEM Nexus, HEURISTIC, T2).
+- IF budget < $10k/mo THEN run manual community-targeted campaigns, NOT Reddit Max (Lejnieks, HEURISTIC, T2).
+- IF budget < $50/day THEN use broad targeting + auto-bid, one format at a time (Affinco, HEURISTIC, T3).
+- IF budget < enough for a powered geo test THEN treat CTV as brand spend with brand metrics (search lift, surveys), not performance (synthesis, HEURISTIC, T3).
+- IF budget < minimum viable for brand reach THEN skip — under-funded audio is untestable noise (synthesis of Orbis/ATTN, HEURISTIC, T3).
+- IF budget is small THEN one high-fit host-read show beats five programmatic sprinkles (Ad Results Media/Hashmeta, OPINION, T2).
+- IF building the account THEN separate Discovery/Brand/Competitor/General campaigns and add cross-campaign negatives (ASO Mobile, FRAMEWORK, T2).
+- IF buying AR Lenses THEN treat as brand/reach format (play time, shares, recall), budget from brand pool, not CPA pool (Snap docs/Affinco, FRAMEWORK, T2).
+- IF capacity < cadence THEN halve cadence — consistency is the habit mechanism (White/Oshinsky, HEURISTIC, T1).
+- IF cash-constrained THEN don't start native at all (Sattler, HEURISTIC, T1).
+- IF catalog underperforms THEN fix feed first (category-first titles, lifestyle images, price accuracy) before touching bids (Sharifuzzaman/Pinterest, EMPIRICAL, T2).
+- IF category is visual, high-AOV, planning-driven (furniture, decor, weddings, fashion) THEN Pinterest beats Meta/Google on CPA; IF low-visual B2B service THEN skip (Sharifuzzaman/Vixen, HEURISTIC, T2).
+- IF choosing KPI THEN use CPA/ROAS; treat CTR as an early diagnostic only (Schwartz/Sattler, CONSENSUS, T2).
+- IF choosing a DSP THEN require suppression/geo capabilities for holdouts; otherwise incrementality is impossible (WorkMagic, HEURISTIC, T2).
+- IF choosing flow format THEN one-page/accordion for AOV <$150, simple products, mobile-heavy traffic; multi-step for AOV >$200, B2B/configurable, extra info collection (Baymard A/B, EMPIRICAL, T1).
+- IF choosing what to automate THEN prioritize high-frequency × high-impact × currently-manual (universal, HEURISTIC, T2).
+- IF comparing platforms THEN compare cost-per-conversion and conversion rate, not CPC — Bing often wins both (Mackey, EMPIRICAL, T1).
+- IF creative is >30s or multi-message THEN cut to one message (ATTN, HEURISTIC, T2).
+- IF data moves across systems with no source-of-truth field THEN add an ID/field mapping step — cross-tool sync without keys creates duplicates (Clearbit/Alltomate, EMPIRICAL, T2).
+- IF day-30 metrics miss thresholds THEN fix activation/positioning before the next launch — checklist efficiency is not the lesson (synthesis, HEURISTIC, T2).
+- IF default form elements >12 THEN cut 20–60% before testing anything else (Baymard, EMPIRICAL, T1).
+- IF dormant segment THEN winback → re-permission → prune, in that order (White, FRAMEWORK, T1).
+- IF evaluating Pinterest THEN require 90-day window + CAPI tracking + compare against GA4/attribution gap, not dashboard ROAS alone (T2).
+- IF evaluating a takeover product THEN budget 5–6 figure daily minimums or don't (Coinis, T3).
+- IF evaluating native's contribution THEN measure assisted/halo impact and feed clicks into retargeting, not just last-click (Joinative/Outbrain, HEURISTIC, T2).
+- IF extra costs are not shown before the payment step THEN surface them earlier (Baymard, EMPIRICAL, T1).
+- IF historical values are messy THEN merge at the analytics layer; never edit old links (McGaw, EMPIRICAL, T2).
+- IF judging keywords THEN evaluate CPT→TTR→CR→CPA per keyword, then cohort revenue, never install count alone (ASO Mobile/Adapty, FRAMEWORK, T2).
+- IF judging the channel THEN require CAPI + 30–60 day window + assisted-conversion view (Lejnieks, EMPIRICAL, T2).
+- IF launch day one THEN test ≥3 angles × 3–5 editorials × 2–3 landing pages in parallel (Sattler/Schwartz, FRAMEWORK, T2).
+- IF launch tier is undecided THEN big-bang for big news + existing audience; rolling for niche/complex (synthesis, HEURISTIC, T2).
+- IF launch-stage with tiny budget THEN Basic as a placeholder is acceptable — but connect revenue attribution before scaling decisions (Adapty/AppRadar, HEURISTIC, T2).
+- IF launching Snap THEN warm up 3–6 weeks pre-peak; never cold-launch in Q4 (CTC, HEURISTIC, T2).
+- IF mass-market ecom THEN skip X; Meta/TikTok have the audience profile (Coinis, T3).
+- IF measuring Spotify THEN require Spotify Brand Lift or search-lift (branded search volume) — dashboard CTR is not the verdict (Spotify docs/ATTN, FRAMEWORK, T2).
+- IF measuring THEN track cost per qualified lead/pipeline via CRM + pixel, never CTR alone (GrowthSpree/Improvado, HEURISTIC, T2).
+- IF measuring X THEN use pipeline (SQLs/demos) not CTR/engagement (Directive, FRAMEWORK, T2).
+- IF measuring a podcast flight THEN run promo code + vanity URL + branded-search volume + new-customer survey in parallel — never promo codes alone (Hashmeta, FRAMEWORK, T2).
+- IF monetizing THEN one new stream per year; sponsors need scale, paid tier needs depth, product cross-sell needs ICP fit (Oshinsky, HEURISTIC, T2).
+- IF negotiating newsletters THEN price on opens and CTR, not subscribers; require open-rate data; use UTM + promo codes (InfluencerFee/SponsorGap, HEURISTIC, T2).
+- IF no one-sentence promise THEN define it before cadence or format (Oshinsky, FRAMEWORK, T1).
+- IF objective is new-customer acquisition or brand reach THEN CTV qualifies; IF pure last-click DR THEN it will look like a failure (WorkMagic/Prescient, EMPIRICAL, T2).
+- IF objective is reach/efficiency for simple impulse products THEN buy programmatic podcast (RON $3–15; targeted $15–35) (Hashmeta/Springcast, EMPIRICAL, T2).
+- IF objective is trust/consideration for complex or premium products THEN buy host-read on niche shows (CPM $25–80) (Hashmeta, HEURISTIC, T2).
+- IF optimizing delivery THEN target 10–30% impression share before scaling bids (Pecánek, EMPIRICAL, T1).
+- IF organic ranking on a keyword is climbing THEN cut the paid bid on it (ASO Mobile, HEURISTIC, T2).
+- IF owned/shared channels don't exist THEN build them before any earned-media ask (Dietrich, FRAMEWORK, T1).
+- IF pitching a journalist THEN ≤150 words, plain text, one reason that reporter cares; tier-3 long-tail can take volume (Zitron, HEURISTIC, T1).
+- IF pre-PMF THEN founder-led non-scalable channels only; no paid big-bang (Rachitsky, HEURISTIC, T1).
+- IF re-optimizing Google THEN re-import to Microsoft Ads on a schedule to propagate improvements (LSEO, HEURISTIC, T3).
+- IF renewing a sponsorship THEN require click/conversion evidence (UTMs, promo redemptions) before premium rates (InfluencerFee, HEURISTIC, T2).
+- IF reviewing UTM health THEN re-run the inventory: distinct-value counts, % unassigned, % missing — sprawl should shrink quarterly (Napkyn/McGaw, HEURISTIC, T2).
+- IF running CTV + other channels THEN expect overlap/assist credit issues; apply incrementality-adjusted attribution (WorkMagic, FRAMEWORK, T2).
+- IF running Microsoft Audience Network placements THEN manage with bid modifiers and separate performance expectations — native ≠ search (Mackey, HEURISTIC, T1).
+- IF running Quora THEN one ad set per campaign; separate campaigns per country/device (Pecánek, EMPIRICAL, T1).
+- IF running Spotify THEN pair with: branded-search bid bump + visual retargeting of listeners during flight (ATTN, FRAMEWORK, T2).
+- IF running X for conversions THEN sequence: familiarity campaign (video/image) → retargeting campaign with conversion objective (Directive, FRAMEWORK, T2).
+- IF running direct response THEN use Dynamic Catalog Ads + measure click-through conversions (28-day), not view-through (CTC/Affinco, HEURISTIC, T2).
+- IF running native THEN budget 2–4 weeks of runway at expected unprofitable CPAs before judging (Sattler, EMPIRICAL, T1).
+- IF running shopping/catalog campaigns THEN keep them always-on year-round; never pause for seasonal events — rotate creative/promotions instead (Pinterest internal, EMPIRICAL, T2).
+- IF sales acceptance <80% OR MQL→SQL <30% OR drifts >5 points THEN tighten fit criteria before touching engagement weights (RevBlack/Ivris, HEURISTIC, T2).
+- IF same audience + same channel THEN freeze day/time after one test (Schwedelson/White, EMPIRICAL, T2).
+- IF scaling THEN cap increases at 15–20%/month and wait for ROAS re-stabilization (Sharifuzzaman, HEURISTIC, T2).
+- IF scaling THEN double budget on winning subreddits; expand to interest targeting only after 2–4 weeks of community validation (Stackmatix/Lejnieks, HEURISTIC, T2).
+- IF scaling beyond question targeting THEN broaden to topics/interests and retarget question-viewers (Pecánek, HEURISTIC, T1).
+- IF scoring THEN fit gate → intent filter → engagement warmth, in that order (Prospeo, HEURISTIC, T2).
+- IF scoring a lead with old activity THEN apply decay — engagement from 6+ months ago is not engagement (Ivris, HEURISTIC, T2).
+- IF spending on CTV THEN measure with geo-based incrementality (matched markets, 3–4 week dark control) or MMM — never platform ROAS alone (Measured/WorkMagic/Prescient, EMPIRICAL, T2).
+- IF tagging an internal link THEN don't — it overwrites the true source; use events instead (utmbuilder/McGaw, EMPIRICAL, T2).
+- IF taxonomy design exceeds 9 fields AND no governance committee exists THEN stay at 7 — enforcement beats granularity (Improvado, HEURISTIC, T3).
+- IF testing Spotify for the first time THEN start with display (low-risk) before producing audio creative (Largaespada, HEURISTIC, T2).
+- IF the flow starts and ends inside one tool THEN use that tool's native automation, not a connector (Olostep, HEURISTIC, T2).
+- IF the objective is direct-response ROAS THEN don't lead with Spotify audio; use it only as a brand/consideration layer (Orbis, OPINION, T2).
+- IF the underlying process is broken THEN fix it before automating (Alltomate, HEURISTIC, T2).
+- IF there is no single taxonomy owner THEN appoint one before writing any more rules (Napkyn/Usermaven, HEURISTIC, T2).
+- IF using catalog auto-targeting THEN do not add interest/keyword overlays (Sharifuzzaman, EMPIRICAL, T2).
+- IF utm_medium ≠ GA4 default channel value THEN change it — custom mediums become Unassigned (WebIQ, EMPIRICAL, T2).
+- IPA blog, "Three common mistakes in awards entries" (physical/mental availability framing) | ipa.co.uk | tier 2 | 2026-08-14
+- IPA blog, "Three common mistakes in awards entries" | ipa.co.uk | tier 1 | 2026-08-14
+- IPA publication page, *The Long and the Short of It* | ipa.co.uk | tier 1 | 2026-08-14
+- IPA, "The Long and the Short of It presentation — 10 key principles" | ipa.co.uk | tier 1 | 2026-08-14
+- IPA, *Effectiveness in Context* (2022), downloads.ctfassets.net PDF | type: primary report | tier 1 | 2026-08-14
+- IdeaCrystal — How to Validate Startup Demand the Right Way | ideacrystal.com/en/blog/how-to-validate-startup-demand | T2 | 2026-08-15
+- IdeasDB — signal feed practice (Reddit pain points, keyword trends) | getideasdb.com | T3 | 2026-08-15
+- Identify link-worthy assets (data, tools, original research, resources).
+- Identify what users search for in the category (queries = demand for assets).
+- Identify your country's primary data suppliers (via Google Maps Legal Notices — his documented method).
+- If quality: objectively audit the whole site through the lens of the update; build a plan covering content, UX, ads, affiliate setup, technical issues.
+- Ignore search volume in selection; prioritize resonance with the buyer.
+- Implement the right changes for users and KEEP them in place long-term. No short-term whack-a-mole testing.
+- Improvado — Marketing Campaign Taxonomy Guide 2026 | improvado.io/blog/marketing-campaign-taxonomy | T2 | 2026-08-15
+- Improvado, Quora Ads guide 2026 | improvado.io | tier 3 | 2026-08-15
+- In 30 seconds, here's cold email personalization that (your) AI can't do | https://www.linkedin.com/posts/williamallred_in-30-seconds-heres-cold-email-personalization-activity-7239610718734483456-m4Hl | LinkedIn | 1 | 2026-08-15
+- Inbound Sales 101: Dan Tyre's top tips for getting past gatekeepers (Huble) | https://huble.com/blog/inbound-sales-101-dan-tyres-top-tips-for-getting-past-gatekeepers | interview | 2 | 2026-08-15
+- Inbox Hero FAQs | https://www.talkingshrimp.com/inbox-hero-faqs-and-answers | primary | tier 1 | 2026-08-14
+- InfluencerFee, Newsletter sponsorship rates & CPM benchmarks | influencerfee.com | tier 3 | 2026-08-15
+- Infomineo — Market Mapping: The Practitioner's Guide | infomineo.com/services/business-research/market-intelligence/market-mapping-the-practitioners-guide-to-competitive-landscape-analysis | T2 | 2026-08-15
+- Intercom — From swarms to product | https://www.intercom.com/blog/from-swarms-to-product-turning-customer-signals-into-scalable-features/ | tier 2 | 2026-08-15
+- Interteam, Reddit case studies | interteammarketing.com | tier 2 | 2026-08-15
+- Interview with Aaron Bradley — Schema Markup & the Enterprise (Schema App) | https://www.schemaapp.com/schema-app-news/interview-aaron-bradley-schema-markup-enterprise/ | interview | 2 | 2026-08-15
+- Inventory internal data that could interest the audience/public (often overlooked).
+- Investopedia — Pitfalls and Limitations of Porter's Five Forces | investopedia.com/articles/investing/103116/pitfalls-porters-5-forces.asp | T2 | 2026-08-15
+- Investopedia — Porter's Five Forces explained | investopedia.com/terms/p/porter.asp | T2 | 2026-08-15
+- Is the "Greatest Sales Deck" Great for Savvy Prospects? | https://medium.com/firm-narrative/is-the-greatest-sales-deck-great-for-savvy-prospects-d5de48fb2f94 | primary essay | tier 1 | 2026-08-14
+- Iterate like a product team (ship, measure, improve).
+- Ivris Tech — Lead Scoring Best Practices: B2B Guide (calibration rules, negative scoring, decay) | ivristech.com/lead-scoring-best-practices | T2 | 2026-08-15
+- JCSDCB: Questions about the Ultimate Question | https://jcsdcb.com/index.php/JCSDCB/article/view/41 | academic paper | tier 2 | 2026-08-15
+- JTBD Interview — Live Demonstration (Bob Moesta) | https://therewiredgroup.com/news/blog-jtbd-interview-live-demonstration/ | practitioner page | tier 1 | 2026-08-15
+- Jamie Indigo LinkedIn profile | https://linkedin.com/in/jamie-indigo | primary profile | tier 2 | 2026-08-14
+- Jay Schwedelson, send-time/subject data | jayschwedelson.com EP63 + MarketingProfs 2024 | tier 2 | 2026-08-15
+- Joinative, 9 Native Advertising Mistakes | joinative.com | tier 2 | 2026-08-15
+- Jon MacDonald site | jonmacdonald.com/ | 1P | 1 | 2026-08-14
+- Judge overall attractiveness; separate industry attractiveness from your position in it (existing skill) (T2).
+- Kantan (site + client testimonials) | https://kantan.io/ | website | tier 1 | 2026-08-15
+- Kantan.io homepage | https://kantan.io/ | primary | tier 2 | 2026-08-14 (method pages 404'd)
+- Kantan.io testimonials | https://kantan.io/quotes | primary (vendor-curated) | tier 2 | 2026-08-14
+- Karl Blanks, Conversion Rate Expert | karlblanks.com/ | 1P | 1 | 2026-08-14
+- Keep server responses stable and fast — capacity limit rises with health, falls with 5xx/429/latency.
+- Keep sitemaps up to date with lastmod.
+- Kevin Indig — programmatic SEO + AI citation studies | growth-memo.com | tier 1 | 2026-08-15
+- Kevin William David — PH launch hub | kevinwilliamdavid.com/product-hunt | tier 2 | 2026-08-15
+- Keynote speaker page | lukasvermeer.nl/speaking/ | 1P | 1 | 2026-08-14
+- Keyword research ≤ 20 minutes with a tool + Brand Analytics cross-check (ZonGuru demo).
+- Klaviyo — 12 tips Pinterest marketing | klaviyo.com/blog | tier 3 | 2026-08-15
+- Koji — Support Ticket Analysis | https://www.koji.so/docs/support-ticket-research-analysis | tier 2 | 2026-08-15
+- Kromatic — Customer Support Analysis | https://kromatic.com/real-startup-book/1-generative-market-research/data-mining/customer-support-analysis | tier 1 | 2026-08-15
+- Kubaru — 7 Lead Routing Best Practices (criteria, safeguards, Ooma case) | kubaru.io/blog/lead-routing-best-practices | T2 | 2026-08-15
+- LSEO, How to Import Google Ads into Microsoft Ads | lseo.com | tier 3 | 2026-08-15
+- Lead intake: form → filter bad records → enrich → score → route → CRM with context (Alltomate, Clearbit).
+- Lean Customer Development (O'Reilly preview) | https://www.oreilly.com/library/view/lean-customer-development/9781449356576/apa.html | book | tier 1 | 2026-08-15
+- LearningAIsearch.com | https://learningaisearch.com | resource hub | 1 | 2026-08-15
+- Lenny Rachitsky — first 10 B2B customers; GTM motions | lennysnewsletter.com | tier 1 | 2026-08-15
+- Lenny's Podcast: Teresa Torres on how to interview customers, continuous discovery, OST | https://www.lennysnewsletter.com/p/teresa-torres-on-how-to-interview | podcast page (outline; transcript not accessible) | tier 2 | 2026-08-15
+- Library of Congress record of Scientific Advertising | https://www.loc.gov/item/23009362/ | primary record | tier 1 | 2026-08-14
+- Lifecycle Email Marketing Guide (Smartinsights) | https://www.holisticemailmarketing.com/insights/lifecycle-email-marketing-brief/ | guide | 1 | 2026-08-15
+- Linearity — Design the perfect marketing automation workflow (nurture/onboarding/re-engagement families) | linearity.io/blog/marketing-automation-workflow | T2 | 2026-08-15
+- Lisa Raehsler, Optimizing Bing Ads after import (via Mackey) | bigclickco.com | tier 2 | 2026-08-15
+- Litmus Live Week: The Factors that Affect Email Deliverability | https://www.emailmarketingrules.com/litmus-live-week-the-factors-that-affect-email-deliverability/ | presentation | 1 | 2026-08-15
+- Lock the 12-month planning period. 2. Open with last year's objectives vs results. 3. Diagnose with data. 4. Build/update the segmentation (map of market; behavior-named segments; size, value, share). 5. Choose targeting (start of strategy; selfish; two-speed). 6. Structure the plan as "arms" per target segment, returning to the segmentation slide between arms. 7. Write positioning per target (what / versus / is; three Cs test). 8. Set pointy funnel-based objectives per target. 9. List tactics per target with costs. 10. Link supporting evidence via hyperlinks. (Circular: next year, diagnose again.)
+- Look for hidden patterns: fading enthusiasm (praised early, absent recently = competitor catch-up), sequential pain (co-occurring problems), competitive shift (competitor mentions changing).
+- MBA Crystal Ball — Five Forces intro (power lens) | mbacrystalball.com/blog/strategy/porters-five-forces | T3 | 2026-08-15
+- MECLABS Institute — Methodology | meclabs.com/about/methodology | 1P/methodology (context: McGlaughlin's institute, the "MECLABS" framework referenced in the master map) | 1 | 2026-08-14
+- MECLABS Online Testing course | meclabs.com/education/online-learning/online-testing | 1P | 1 | 2026-08-14
+- MIT Sloan Management Review: Should You Use Net Promoter Score as a Metric? | https://sloanreview.mit.edu/article/should-you-use-net-promoter-score-as-a-metric/ | academic review | tier 1 | 2026-08-15
+- Maintain the content body over time (refresh decay, kill 404s).
+- Making Websites Win (book page + top review) | amazon.com/Making-Websites-Win-Customer-Centric-Methodology-ebook/dp/B076XSCTB2 | book | 1 | 2026-08-14
+- Map SERPs per query to define topical borders (should this be one page or several?).
+- Map every way a prospect searches when in buying mode (alternatives, comparisons, use cases, integrations).
+- Map to opportunity: ICP fit filter, timing choice (first-mover vs fast-follower), rough size; output trend cards with actions ignore/watch/experiment/invest + kill criteria (existing skill) (T2).
+- Marcel Sattler, Profitable Native Ads on Taboola & Outbrain | native-advertising.net | tier 1 | 2026-08-15
+- Mark Ritson, "Can you achieve long and short at the same time? Usually, no" | marketingweek.com | tier 1 | 2026-08-14
+- Mark Ritson, "Planning for marketing planning: 14 steps to an effective presentation" | marketingweek.com | tier 1 | 2026-08-14
+- Mark Ritson, "Ritson's 'foolproof' system for marketing budgets" (summary of Binet/Field B2C 62% / B2B 46% numbers) | marketingweek.com | tier 2 | 2026-08-14
+- Mark Ritson, "Three axioms and three questions that summarise all of brand strategy" | marketingweek.com | tier 1 | 2026-08-14
+- Marketing Powerups podcast: Talia Wolf's emotional targeting framework | marketingpowerups.com/podcast/talia-wolf-emotional-targeting-framework/ | podcast transcript | 2 | 2026-08-14
+- Marketing teams don't create demand because their KPIs don't incentivize it | linkedin.com/posts/chriswalker171 (2021-07-08) | T1 | 2026-08-15
+- McKinsey — The use and abuse of scenarios (2009) | mckinsey.com (Classics) | T1 | 2026-08-15
+- Measure and iterate; scale the parts that compound.
+- Measure links and adapt (idea generation, pitching, reporting all iterated over time).
+- Measure whether the asset serves intent (engagement, conversions), not just rank.
+- Measured, CTV incremental ROAS report (Aug 2025) | measured.com/press | tier 2 | 2026-08-15
+- Melissa Mackey profile (Bing Champion, JumpFly) | paidsearch.org/team/melissa-mackey | tier 2 | 2026-08-15
+- Melissa Mackey, Bing Ads feels like a second language | beyondthepaid.com | tier 1 | 2026-08-15
+- Melissa Mackey, Importing AdWords Campaigns to Bing Ads: The Guide | beyondthepaid.com | tier 1 | 2026-08-15
+- Melissa Mackey, Where Bing Ads Are Beating Google | beyondthepaid.com | tier 1 | 2026-08-15
+- Message Match glossary | unbounce.com/conversion-glossary/definition/message-match/ | glossary | 1 | 2026-08-14
+- Meta Transparency — Ad Library tools | https://transparency.meta.com/researchtools/ad-library-tools | tier 1 | 2026-08-15
+- Michaela Jefferson, "Ritson's 'foolproof' system for marketing budgets" | marketingweek.com | tier 2 (interview coverage of his talk) | 2026-08-14
+- Michal Pecánek (Ahrefs), Quora Ads: Over $200K Spent | ahrefs.com/blog/quora-ads | tier 1 | 2026-08-15
+- Mike Zagare author page (Awareness Stage of the Customer Journey) | zonguru.com/blog-authors/mike-zagare | article list | tier 1 | 2026-08-15
+- Mike Zagare speaker profile | amzsummits.com/speakers/mike-zagare | profile | tier 2 | 2026-08-15
+- Mine past media: find execs' press/podcast coverage; contact sites citing them that didn't link; get links/mentions added.
+- Mobile Dev Memo podcast, "What is advertising incrementality? (with Garrett Johnson)" | mobiledevmemo.com | tier 1 | 2026-08-14
+- Mobilize the ecosystem: POV → early adopters → analysts → media → competitors adopting the name; invite second/third players in (existing skill; Lochhead) (T2).
+- Monei — Cart abandonment causes/stats (42% browsing share) | monei.com/blog/cart-abandonment | T2 | 2026-08-15
+- Monetizing Innovation (book excerpt) | oreilly.com/library/view/monetizing-innovation/9781119240860/c03.xhtml | T1 | 2026-08-15
+- Monetizing Innovation interview | marketingjournal.org/monetizinginnovation | T1 | 2026-08-15
+- Monitor reviews and reputation as core local assets (his Near Media research focus).
+- Monitor volatility trackers (Semrush/Moz-style tools) + industry reports.
+- Moz blog ranking factor archives (referenced) | tier 2 | 2026-08-14
+- Mueller's statement on site-wide quality evaluation cited in Glenn Gabe's core update post | https://www.gsqi.com/marketing-blog/google-broad-core-updates-important-points-and-frequently-answered-questions/ | tier 1 (secondary citation of primary statement) | 2026-08-14
+- Multi-source scan: Google Trends (5-year view, rising related queries, geography), Reddit, GitHub/HN for tech, VC funding, job postings with new titles, conference agendas, analyst categories (existing skill) (T2).
+- My outbound cadence that has a 20% response rate | https://www.linkedin.com/posts/morganjingramamp_my-outbound-cadence-that-has-a-20-response-activity-7207121488854822913-dY_p | LinkedIn | 1 | 2026-08-15
+- Myths, Lies and Illusions of AB and Split Testing | slideshare.net/slideshow/myths-lies-and-illusions-of-ab-and-split-testing/43774494 | deck | 1 | 2026-08-14
+- NC Squared — Lead Scoring: Definition, Models, Best Practices (60–80 threshold) | nc-squared.com/blog/article/what-is-lead-scoring | T2 | 2026-08-15
+- NUX6 "AB Testing and UX — a love story" description | slideshare (NUX6 talk) | deck description | 1 | 2026-08-14
+- NYT — How Meta's Threads Became as Popular as X | nytimes.com | tier 2 | 2026-08-15
+- Name the category: functional/evocative/compound options (5-10), test "we need a [name] solution", adoption potential over brand-team preference (existing skill) (T2).
+- Napkyn (Monika Boldak) — Best Practices for Using UTM Parameters in Marketing Campaigns | napkyn.com/blog/best-practices-for-using-utm-parameters-in-marketing-campaigns | T2 | 2026-08-15
+- Never trust a single keyword's volume as the traffic estimate.
+- New Digital Age, Spotify launches Brand Lift (Koodo) | newdigitalage.co | tier 2 | 2026-08-15
+- Nik Sharma on the Reality of DTC Strategy | portless.com/blogs/nik-sharma-dtc-strategy | T2 | 2026-08-15
+- No history → select 3+ analogs matched on diffusion-relevant dimensions; weight by similarity (T2).
+- Noisely — 7 proven steps to turn G2 reviews into product wins | https://noise.ly/blog/g2-reviews-analysis-product-insights | tier 2 | 2026-08-15
+- Ntegra — S-Curve model (Rogers) phases and strategy | ntegra.com/insights/navigating-the-adoption-process-of-technologyinnovation | T3 | 2026-08-15
+- OUP, *How Brands Grow* book description/chapter list | oup.com.au | tier 1 (canonical source) | 2026-08-14
+- Obviously Awesome (book, referenced by master map) | UNVERIFIED directly — not fetched this session | tier 1 | — (canonical book)
+- Oldroyd, McElheran & Elkington — "The Short Life of Online Sales Leads" | hbr.org/2011/03/the-short-life-of-online-sales-leads (also hbs.edu/faculty/Pages/item.aspx?num=39955) | T1 | 2026-08-15
+- Olostep — Workflow Automation: Examples, Tools & Best Practices | olostep.com/blog/workflow-automation | T2 | 2026-08-15
+- On What is a Job to be Done? | https://medium.com/@alanklement/on-what-is-a-job-to-be-done-cc5cd1d95e6e | essay | tier 1 | 2026-08-15
+- On-Demand Webinar: The Email Subscriber Lifecycle | https://www.emailmarketingrules.com/on-demand-webinar-the-email-subscriber-lifecycle/ | webinar | 1 | 2026-08-15
+- OnTheFuze — HubSpot Lifecycle Stages Explained (8 stages, BANT SQL, <20% rule) | onthefuze.com/hubspot-insights-blog/hubspot-lifecycle-stages-explained | T2 | 2026-08-15
+- Online Controlled Experiments: Lessons from Running A/B/n Tests for 12 Years (KDD keynote) | exp-platform.com/Documents/2015-08OnlineControlledExperimentsKDDKeynoteNR.pdf | paper | 1 | 2026-08-14
+- Online Optimism, Spotify's push into performance marketing | onlineoptimism.com | tier 2 | 2026-08-15
+- OpenAdLibrary, Native Ad Headlines: 12 Formulas | openadlibrary.com | tier 3 | 2026-08-15
+- Opportunity Solution Tree | https://www.producttalk.org/opportunity-solution-tree/ | framework page | tier 1 | 2026-08-15
+- Ops handoff: task created in tool A → update tool B → notify owner → escalate on SLA breach (Alltomate).
+- Optifai — Speed to Lead: 5-Minute Response = 21x Higher Qualification (N=939 benchmark) | optifai.ai/learn/questions/speed-to-lead-statistics | T3 | 2026-08-15
+- Optimize UX signals (layout, readability, engagement).
+- Optimize weekly: bids, negatives, placements; SB/SD/DSP layers added as data justifies.
+- Optionally run user studies to understand quality issues from the user's perspective.
+- Orainti blog (international SEO + GEO content, referenced) | tier 1 | 2026-08-14
+- Orbis Agency, Spotify Ads (US/IE) | orbis.agency | tier 2 | 2026-08-15
+- Orbit Media AEO guides | https://www.orbitmedia.com/blog/ | article series | 2 | 2026-08-15
+- Organize findings into a swipe/quote file.
+- Outbound Lessons Learned Since Predictable Revenue Was Published (GTMnow) | https://gtmnow.com/outbound-lessons-learned-since-predictable-revenue-was-published/ | article | 1 | 2026-08-15
+- Outbrain, Best of 2020 case studies (Domino's etc.) | outbrain.com | tier 2 | 2026-08-15
+- Outfy — Threads Marketing Strategy 2026 | outfy.com | tier 4 | 2026-08-15
+- Output top-5 categories as prioritized hypotheses (frequency, severity, root cause); decide fix type: product / documentation / onboarding.
+- Outreach efficiently (her 5 tips: personalization, timing, follow-up discipline).
+- Outreach to relevant publishers with a specific, useful angle.
+- PMF Survey thread (PMFDay) | https://threadreaderapp.com/thread/1158795486624534528.html | primary social thread | tier 1 | 2026-08-14
+- PROOF Insights — Competitive landscape methodologies (MDS, gap analysis) | proof-insights.com/methodologies/competitive-landscape | T3 | 2026-08-15
+- PXL: A Better Way to Prioritize Your A/B Tests | cxl.com/blog/better-way-prioritize-ab-tests/ + speero.com/post/how-to-prioritize-your-a-b-tests-ideas | article | 1 | 2026-08-14
+- PainOnSocial — Subreddit ranking tools guide | https://painonsocial.com/blog/subreddit-ranking-tool | tier 3 | 2026-08-15
+- Pair with PESTLE (macro) and SWOT (firm) as complementary lenses (assignmenthelpcenter) (T2).
+- Paramount Ads Manager, CTV attribution "keep it simple" | adsmanager.paramount.com | tier 2 | 2026-08-15
+- Part 4: $100M Offers Book (podcast ep 582) | https://podcasts.apple.com/us/podcast/part-4-%24100m-offers-book-ep-582/id1254720112?i=1000624977842 | primary | tier 1 | 2026-08-14
+- Paved, Newsletter sponsorship rates | paved.com | tier 2 | 2026-08-15
+- Pedowitz Group — Competitive positioning maps with AI (cadence/change-log practice) | pedowitzgroup.com/competitive-positioning-maps-with-ai | T3 | 2026-08-15
+- Peeking at live A/B tests: when is it OK? | linkedin.com/posts/ronnyk_peeking-at-live-ab-tests... | post | 1 | 2026-08-14
+- Pelin — Zendesk Product Insights | https://www.pelin.ai/blog/zendesk-product-insights | tier 2 (vendor) | 2026-08-15
+- Pingroupie — Pinterest SEO Guide 2026 | pingroupie.com/blog/pinterest-seo-guide-2026 | tier 3 | 2026-08-15
+- Pinterest Advertising Stuff, 39.94x furniture catalog case | pinterestadvertisingstuff.com | tier 2 | 2026-08-15
+- Pinterest Business Community — catalog sync troubleshooting | community.pinterest.biz | tier 2 (platform) | 2026-08-15
+- Pinterest Business, shopping best practices checklist | business.pinterest.com/blog | tier 1 | 2026-08-15
+- Pitch external "best X" article authors with value trades (placement on your listicle, podcast slot, service exchange, shoutout — "some are pay to play").
+- Pitch to writers with the story angle, not the link.
+- Plot on 2-3 decision axes; mark claimed vs actual positions (reviews vs marketing) (existing skill; Umbrex) (T2).
+- Positioning Consultant services page | https://www.aprildunford.com/consultant | primary | tier 1 | 2026-08-14
+- Positioning and Competition | aprildunford.com/post/positioning-and-competition | T1 | 2026-08-15
+- Positioning — Geoffrey Moore (consulting page summarizing method) | https://geoffreyamoore.com/positioning/ | primary | tier 1 | 2026-08-14
+- Post-reinstatement: compliance monitoring to prevent recurrence.
+- Practical Guide to Controlled Experiments on the Web (Kohavi, Henne, Sommerfield) | ai.stanford.edu/~ronnyk/GuideControlledExperiments.pdf | paper | 1 | 2026-08-14
+- Prefer experimental evidence (e.g., SearchPilot-style tests) over correlational studies.
+- Prescient AI, How to measure CTV effectively | prescientai.com | tier 2 | 2026-08-15
+- Present ranges/scenarios with sourced assumptions; keep the working number and the public number distinct.
+- Present via a structured deck: prioritized summary first, then per-recommendation "why it matters / where found / how to fix with examples".
+- PrimeSpy — 10 Best Facebook Ads Spy Tools | https://www.primespy.net/blog/best-facebook-ads-spy-tool | tier 3 | 2026-08-15
+- Prioritize citation targets (major data suppliers and aggregators first — see Blumenthal's ecosystem work).
+- Prioritize with weighted scoring: frequency × revenue impact × competitive urgency × effort (Intercom assigns review insights 2x multiplier — vendor claim T3).
+- Prioritize: high impact + low effort first; drop low impact + high effort.
+- Produce 5-10 prioritized issues, each with: plain-language problem, quantified business impact, developer-ticket implementation steps (acceptance criteria, reproduction steps).
+- Produce developer-ready tickets (they specialize in "actionable tickets ready for developer refinement").
+- Product Marketing Alliance (Adam Corey) — 5 tips for marketers mining sales calls | https://www.productmarketingalliance.com/5-tips-for-marketers-mining-sales-calls-for-insights | tier 2 | 2026-08-15
+- Product Positioning Exercise (5-step method, IBM example) | https://www.aprildunford.com/post/a-product-positioning-exercise | primary blog | tier 1 | 2026-08-14
+- ProductLed / The Product-Led Playbook | referenced via master map; not fetched this session | tier 1 | —
+- Productboard: Creating value with continuous discovery (Part 1) | https://www.productboard.com/blog/creating-value-with-continuous-discovery-a-discussion-with-teresa-torres-part-1/ | interview | tier 2 | 2026-08-15
+- Productfolio — Hype Cycle explainer (Jackie Fenn 1995, 100+ cycles/year) | productfolio.com/gartner-hype-cycle | T3 | 2026-08-15
+- Productive Insights podcast #140 (summary) | https://www.productiveinsights.com/podcast/140 | interview | tier 2 | 2026-08-14
+- Produx Labs Episode 207: Mastering Predictable Product Success with ODI | https://www.produxlabs.com/product-thinking-blog/episode-207-tony-ulwick-outcome-driven-innovation | podcast transcript | tier 2 | 2026-08-15
+- ProfitWell's Patrick Campbell (Intercom podcast) | intercom.com/blog/podcasts/profitwells-patrick-campbell-on-the-art-and-science-of-pricing | T2 | 2026-08-15
+- ProofEngine — 7 Demand Validation Experiments | blog.proofengine.studio/demand-validation-experiments | T2 | 2026-08-15
+- Prospeo — B2B Intent Data | https://prospeo.io/s/b2b-intent-data | tier 3 | 2026-08-15
+- Prospeo — Lead Scoring Best Practices for 2026 (three-layer model, demo override, data hygiene) | prospeo.io/s/lead-scoring-best-practices | T2 | 2026-08-15
+- Proxy signals: review velocity on G2/Capterra/App Store (normalized by product age), job postings, community growth, workaround prevalence (existing skill; ProofEngine) (T2).
+- Publish range + scenarios + named critical assumption; set decision triggers; log forecast vs actual quarterly (T1/T2).
+- Push to roadmap tool with links to original reviews ("the translation layer is where insights die").
+- Q&A on Sequential Statistics in A/B Testing | blog.analytics-toolkit.com/2023/qa-on-sequential-statistics-in-a-b-testing/ | interview/Q&A | 1 | 2026-08-14
+- Qmarkets — Trend Analysis: A Practical Guide (pattern recognition, STEEP, scoring) | qmarkets.net/resources/article/trend-analysis | T2 | 2026-08-15
+- Quantitative phase: survey hundreds of respondents on importance and satisfaction of the outcome statements (PROCESS, T1 — Produx Labs).
+- Quarterly: report + reallocate + gameplan.
+- Quora community thread "Are Quora ads useful?" | quora.com | tier 5 | 2026-08-15
+- Quora for Business, B2B advertising + Asana/Instapage cases | business.quora.com | tier 2 | 2026-08-15
+- Quotations of David Ogilvy (PDF) | https://www.ogilvy.com/sites/g/files/dhpsjz106/files/pdfdocuments/Quotations_of_David_Ogilvy_v2.pdf | primary | tier 1 | 2026-08-14
+- R Journal — Metapopulation Bass Diffusion (model mechanics, peak-timing value) | journal.r-project.org/articles/RJ-2017-006 | T1 | 2026-08-15
+- RAIN News, Spotify Ad Analytics/Pixel | rainnews.com | tier 2 | 2026-08-15
+- Re-check protocol: monthly radar, quarterly deep-dive, 3-month re-check with kill on stalled velocity (existing skill; Qmarkets cadence) (T2).
+- Re-run on force-shifting events: new tech, regulation, capital availability changes (DrinkBird) (T2).
+- Read comments first, posts second; mine language verbatim.
+- Read the industry first: mature category with entrenched criteria → category design; emerging category → fast positioning inside it (existing skill) (T2).
+- Reddinbox — How to Use Reddit for Market Research (6-step guide) | https://reddinbox.com/blog/how-to-use-reddit-for-market-research | tier 2 | 2026-08-15
+- Reddit Business, DocMorris success story | business.reddit.com/success-stories | tier 2 | 2026-08-15
+- Reforge Growth Series | reforge.com | T2 | 2026-08-15
+- Refresh quarterly in fast sectors; event-triggered updates (funding round, entrant, M&A, regulatory shift) (Infomineo) (T2).
+- Remediate quality issues (content freshness, UX, E-E-A-T signals, affiliate transparency).
+- Report confirmed (Google-announced) vs unconfirmed separately.
+- Report the honest distribution — including failures — to clients.
+- Reporting: schedule → pull GA4/ads/email → calculate KPIs → send to Slack/email (n8n/Zapier).
+- Require 2+ independent sources before escalating a candidate (existing skill; Qmarkets) (T2).
+- Research without confirmation bias: start from problem space.
+- Return 304 Not Modified where applicable.
+- Return 404/410 for permanently removed pages (keeps them out of queues).
+- RevBlack — RevOps Lead Scoring Playbook (MQL→SQL 30%) | revblack.com/guides/revops-lead-scoring-playbook (via Prospeo) | T2/T3 | 2026-08-15
+- Review profile over time (reviews velocity and consistency).
+- Revisit past tests when Google/industry changes — invalidated tests should be rerun.
+- Rework — Sales Call Recording and Transcript Analysis (Meeting Intelligence pattern) | https://resources.rework.com/libraries/ai-for-sales-operations/sales-call-recording-and-transcript-analysis | tier 2 | 2026-08-15
+- Run a delta report to identify the queries and landing pages with the biggest drops.
+- Run both groups concurrently; let external shocks hit both equally.
+- Run thought leadership as the engine: problem-level content ladder, evidence engine, language adoption across customer-facing teams (existing skill) (T2).
+- Ryan Law/Guan — AIO CTR study | ahrefs.com/blog/ai-overviews-reduce-clicks | tier 1 | 2026-08-14
+- S.U.C.K.S. editing checklist post | https://www.linkedin.com/posts/kierandrew123_when-i-edit-my-writing-i-use-a-checklist-activity-7166446559776247808-qqN4 | primary social | tier 1 | 2026-08-14
+- SEM Nexus, ASA keyword bidding strategy | semnexus.com | tier 2 | 2026-08-15
+- SOM from GTM capacity: sales headcount × quota, channels; B2B SaaS year-3 planning range 1-5% of SAM; consumer 0.1-1% (T2 heuristic).
+- SPF Alignment Failures: Don't Panic! | https://www.spamresource.com/2025/02/spf-alignment-failures-dont-panic.html | blog | 1 | 2026-08-15
+- SaaS Email Onboarding with Val Geisler (UI Breakfast) | https://uibreakfast.com/102-saas-email-onboarding-with-val-geisler/ | podcast | 2 | 2026-08-15
+- Sanity checks: installed-base benchmarks; implied year-1 sell-through "laugh test"; inflection point should align with when word-of-mouth kicks in (second derivative) (T2).
+- Saves high, outbound clicks low → fix description/CTA; verify landing page matches the pin's promise.
+- Schwartz Consulting, How to boost online sales with Outbrain and Taboola | schwartzconsulting.co.uk | tier 2 | 2026-08-15
+- ScienceDirect — Search-traffic analogical forecasting | sciencedirect.com/science/article/abs/pii/S0040162514002297 | T1 | 2026-08-15
+- Scientific Advertising (Wikipedia summary) | https://en.wikipedia.org/wiki/Scientific_Advertising | reference | tier 3 | 2026-08-14
+- Scope ruthlessly: audit only segments with traffic/revenue/pain. Focused segment audit ~10h; full enterprise audit 50-70h.
+- Score each force high/medium/low with named evidence — evidence, not instinct (Visual-Paradigm) (T2).
+- Scoreboard: name adoption, share of category discussion, POV traction — over years, not quarters (existing skill) (T2).
+- Search Engine Land — International SEO guide | searchengineland.com/guide/international-seo-best-practices | tier 2 | 2026-08-15
+- Search Engine Roundtable (daily archives, referenced) | tier 1 | 2026-08-14
+- Search demand: keyword set, 2+ volume tools (ratios not absolutes), intent split, 3-year direction (existing skill; ProofEngine) (T2).
+- Search like a researcher: native operators + Google `site:reddit.com` (surfaces threads Reddit search misses).
+- SearchAdsMaven, Five mistakes on Apple Search Ads | searchadsmaven.com | tier 2 | 2026-08-15
+- Segment the site by page type, region, language, or platform — unsegmented full crawls of 40M+ URLs produce unusable data and take 48-72h.
+- Sellers Are Paying Amazon $10,000 A Month for Fake Reviews (Chris McCabe interview) | rob-stanley.medium.com | interview | tier 2 | 2026-08-15
+- Set stage-appropriate ACoS targets (e.g., 4-month-old brand at <90% ACoS is launch-acceptable; don't panic).
+- Seven Pitfalls to Avoid when Running Controlled Experiments | ai.stanford.edu/~ronnyk/2009-ExPpitfalls.pdf | paper | 1 | 2026-08-14
+- Shelley Walsh LinkedIn profile | https://linkedin.com/in/shelleywalsh | profile | 2 | 2026-08-15
+- Ship pages fast: "take months to go from keyword idea to published page" is a listed mistake (TACTIC — velocity matters).
+- Shopify — Marketing Efficiency Ratio guide (MER definition) | shopify.com/blog/marketing-efficiency-ratio | T2 | 2026-08-15
+- Shopify — Meta Ads Library: 9 Ways To Use It | https://www.shopify.com/blog/ad-library-facebook | tier 2 | 2026-08-15
+- Shopify — Pinterest Marketing Strategy Guide 2026 | shopify.com/blog/pinterest-marketing | tier 2 | 2026-08-15
+- Show force interactions and trajectory (what would shift each force) (T2).
+- Sideshow EP4 (Labay/Vermeer/Stotz taxonomy) | speero.com/post/sideshow-ep4 | podcast transcript | 1 | 2026-08-14
+- Sideshow EP4: org structure and experimentation (taxonomy paper w/ Stotz & Vermeer) | speero.com/post/sideshow-ep4 | podcast transcript | 1 | 2026-08-14
+- Simulmedia, Measure incremental lift in CTV | simulmedia.com | tier 2 | 2026-08-15
+- Snap Developers, AR Lenses Ads API docs | developers.snap.com | tier 1 | 2026-08-15
+- Snap Q1 2026 earnings (Measured iROAS +104%) | finance.yahoo.com | tier 2 | 2026-08-15
+- Snap for Business, Quay success story | forbusiness.snapchat.com | tier 2 | 2026-08-15
+- Social Media Today, Pinterest catalog advice | socialmediatoday.com | tier 2 | 2026-08-15
+- Some updated cold email data: 12% | https://www.linkedin.com/posts/williamallred_some-updated-cold-email-data-12-what-does-activity-7295436944627367936-ls-O | LinkedIn | 1 | 2026-08-15
+- Spate — How to Tell if a Trend is a Fad or Long-Term | spate.nyc/blog/how-to-interpret-trend-signals | T2 | 2026-08-15
+- Speed is not velocity | lukasvermeer.medium.com/speed-is-not-velocity-7c95bec715ef | essay | 1 | 2026-08-14
+- Split topics into problem-solving vs thought-leadership.
+- SponsorGap, Newsletter Sponsorship Rates 2026 | sponsorgap.com | tier 3 | 2026-08-15
+- Spotify Ads, Ad Measurement docs | ads.spotify.com | tier 1 | 2026-08-15
+- Springcast, Host-read vs programmatic ads (Magellan AI data) | springcast.io | tier 2 | 2026-08-15
+- Sprout Social — Pinterest SEO: 8 steps | sproutsocial.com/insights/pinterest-seo | tier 2 | 2026-08-15
+- Sramana Mitra — Overestimating TAM | sramanamitra.com/2024/07/19/the-startup-velocity-question-overestimating-tam/ | T3 | 2026-08-15
+- Stack Influence — Threads vs X 2026; Threads for influencers | stackinfluence.com | tier 4 | 2026-08-15
+- Stackmatix, Advertising on Reddit: Pros and Cons | stackmatix.com/blog | tier 2 | 2026-08-15
+- Stackmatix, Reddit CPC/CPM benchmarks | stackmatix.com/blog/reddit-ads-cpc-cpm-benchmarks | tier 2 | 2026-08-15
+- Stakeholder interviews — find the real pain points (traffic drop, launch, redesign, compliance, migration); map owners (engineering owns templates/CDN, content owns copy, legal can veto).
+- Start with indexing (GSC Page Indexing report) before content or links.
+- State of Cold Email 2025 (Mailshake, for benchmark context) | https://assets.mailshake.com/wp-content/uploads/2025/04/16091740/Cold-Email-Report-2025-Mailshake.pdf | survey report | 3 | 2026-08-15
+- State the strategic question the map answers (Infomineo: mandatory methodology note) (T2).
+- Statistical Methods in Online A/B Testing (book) | abtestingstats.com/Statistical-Methods-in-Online-A-B-Testing-pdf.pdf | book | 1 | 2026-08-14
+- Step-by-Step Framework for SaaS Pricing | saasclub.io/podcast/saas-pricing-patrick-campbell-price-intelligently | T1 | 2026-08-15
+- Steps of Conversion Optimization | conversionsciences.com/what-are-the-steps-of-conversion-optimization/ | article | 1 | 2026-08-14
+- Stop Marketing, Start Selling (book page) | thegood.com/stop-marketing-start-selling/ | book/1P | 1 | 2026-08-14
+- Stop trying to personalize at "scale" | https://www.linkedin.com/posts/williamallred_stop-trying-to-personalization-at-scale-activity-7197207268419850243-2lBP | LinkedIn | 1 | 2026-08-15
+- Structure content around dominant intent per page (canonical intent); avoid diluting with off-intent sections.
+- Structured Data's Role In AI And AI Search Visibility (SEJ) | https://www.searchenginejournal.com/structured-datas-role-in-ai-and-ai-search-visibility/553175/ | article | 1 | 2026-08-15
+- Structuring PMM and Competitive Analysis | kellblog.com/structuring-organization-and-duties-of-product-marketing-and-competitive-analysis | T2 | 2026-08-15
+- Subscription Ecommerce Live teardown of Primal Kitchen | youtube.com/watch?v=X0gp-FBBYtM | talk transcript | 1 | 2026-08-14
+- Successful Sales Calls with Dan Tyre (Catalyst Sale podcast) | http://blog.catalystsale.com/podcast/successful_sales_calls_with_dan_tyre | podcast | 2 | 2026-08-15
+- Support launch/migration/redesign QA and go-live as SME.
+- TCC Podcast 17: Copywriting and Analytics with Momoko Price | https://thecopywriterclub.com/tcc-podcast-17-momoko-price/ | interview | tier 2 | 2026-08-14
+- TCC Podcast 17: Copywriting and Analytics with Momoko Price | https://thecopywriterclub.com/tcc-podcast-17-momoko-price/ | podcast transcript | tier 2 | 2026-08-15
+- TLC: Sample Ratio Mismatch (SRM) with Lukas Vermeer | youtube.com/watch?v=CJ9KinpJplg | talk transcript | 1 | 2026-08-14
+- Taboola, case studies (Kaspersky, Zazume, AVVA) | taboola.com | tier 2 | 2026-08-15
+- Tailwind study via Kara's Report | thekarareport.com/pinterest-marketing-in-2025 | tier 3 | 2026-08-15
+- TechCrunch — How to calculate your startup's TAM, SAM and SOM (value theory) | techcrunch.com/2022/03/09 | T2 | 2026-08-15
+- Test Phase Gate Framework post | linkedin.com/posts/benlabay_are-your-experiments-slowing-down-because-activity-7414270767959474176 | post | 1 | 2026-08-14
+- Test single variables on real clients (e.g., hide vs show address).
+- The 50 Most-Cited Websites in Perplexity | https://ahrefs.com/blog/most-cited-domains-perplexity/ | study | 1 | 2026-08-15
+- The AI Search Optimization Checklist (updated May 2026) | https://www.aleydasolis.com/en/ai-search/ai-search-optimization-checklist/ | article/checklist | 1 | 2026-08-15
+- The Active Marketer TAM006 (interview) | https://theactivemarketer.com/podcast/tam006-andre-chaperon-storytelling/ | interview | tier 2 | 2026-08-14
+- The Boron Letters Ch. 1 & Ch. 5 | https://www.thegaryhalbertletter.com/Boron/BoronLetterCh1.htm ; https://thegaryhalbertletter.com/Newletter-archives-protected/Boron/TChapter5.htm | primary | tier 1 | 2026-08-14
+- The Code Forest — Early trend detection (leading indicators, pattern shapes) | thecodeforest.github.io/post/early_trend_detection.html | T3 | 2026-08-15
+- The Consensus Gap — Growth Memo | https://www.growth-memo.com/p/the-consensus-gap | newsletter/study | 1 | 2026-08-15
+- The Customer Development Methodology (UCSD deck) | https://innovation.ucsd.edu/startup/startup-toolkit/Steve-Blank-CustDev.pdf | teaching deck | tier 2 | 2026-08-15
+- The Definitive Guide to Adapting to Mail Privacy Protection | https://www.emailmarketingrules.com/the-definitive-guide-to-adapting-to-mail-privacy-protection/ | blog | 1 | 2026-08-15
+- The Emotional Targeting Framework | getuplift.co/the-emotional-targeting-framework/ | 1P | 1 | 2026-08-14
+- The Flexible Framework for Writing High-Converting Landing Page Copy | unbounce.com/landing-pages/writing-high-converting-copy/ | article | 1 | 2026-08-14
+- The Four Steps to the Epiphany ch.2 (O'Reilly preview) | https://www.oreilly.com/library/view/the-four-steps/9781119690351/c02.xhtml | book | tier 1 | 2026-08-15
+- The Future of Predictable Revenue: From Frameworks to Architecture | https://theb2bplaybook.com/future-of-predictable-revenue | interview/article | 2 | 2026-08-15
+- The Greatest Sales Deck I've Ever Seen | https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0 | primary essay | tier 1 | 2026-08-14
+- The Making of a Great Strategic Narrative (Uberflip case) | https://medium.com/the-mission/the-making-of-a-great-sales-narrative-978938b3926 | primary essay | tier 1 | 2026-08-14
+- The Marketing Playbook from "The DTC Guy" | shopify.com/blog/nik-sharma-marketing | T1 | 2026-08-15
+- The Mattress Interview Q&A (JTBD Radio) | https://jobstobedone.org/radio/the-mattress-interview-qa/ | podcast Q&A transcript | tier 1 | 2026-08-15
+- The Mom Test (official site) | https://www.momtestbook.com/ | website | tier 1 | 2026-08-15
+- The Moz Guide to Link Building (canonical methodology, referenced) | tier 1 | 2026-08-14
+- The ONLYNESS TEST | https://www.martyneumeier.com/the-onlyness-test | primary | tier 1 | 2026-08-14
+- The Positioning (book with David Cancel) | UNVERIFIED directly this session; referenced via master map | tier 1 | —
+- The Posse Eye (brand voice framework) | https://copyposse.com/brand | primary | tier 1 | 2026-08-14
+- The Powerset Launch: Beware "The Next" Positioning | https://kellblog.com/2007/09/18/the-powerset-launch-beware-the-next-positioning/ | primary essay | tier 1 | 2026-08-14
+- The Proven AB Testing Framework Used By CRO Professionals | conversionsciences.com/ab-testing-framework/ | article | 1 | 2026-08-14
+- The Sean Ellis 40% Test: Ultimate Guide | fitsignal.com/blog/sean-ellis-40-percent-test | T2 | 2026-08-15
+- The future of deliverability with Laura Atkins (Stripo interview) | https://stripo.email/blog/the-future-of-deliverability-with-laura-atkins-why-reputation-will-matter-more-than-authentication/ | interview | 1 | 2026-08-15
+- TheVCfactory — TAM SAM SOM from the investor's point of view | thevcfactory.com/tam-sam-som | T2 | 2026-08-15
+- There is no single AI Visibility (LinkedIn) | https://www.linkedin.com/posts/kevinindig_there-is-no-single-ai-visibility-i-analyzed-activity-7459579177080549377-P1RP | post | 1 | 2026-08-15
+- Thinkbox summary of *The Long and the Short of It* | thinkbox.tv | tier 1 | 2026-08-14
+- This is the best outbound cadence I've ever used (Spider-Man Cadence) | https://www.linkedin.com/posts/morganjingramamp_this-is-the-best-outbound-cadence-ive-ever-activity-7394833945772830720-zpg- | LinkedIn | 1 | 2026-08-15
+- Tom Capper — correlation filter | tier 1 (seo.md) | 2026-08-14
+- Top B2B pricing challenges (230+ companies) | linkedin.com/posts/kyle-poyar (2026-05-15) | T1 | 2026-08-15
+- Track and maintain over time (citations rot when NAP changes).
+- Track both classic SERP visibility AND AI-answer citations (brand vs competitors).
+- Track every campaign outcome; learn from steady performers and failures.
+- Track larger search patterns over time (intent migration) rather than single-keyword movements.
+- Track rankings in the local pack + map pack separately.
+- Traffic MBA course description (golden ratio, dollar-in-dollar-out) | cldshare.com/course/ezra-firestone-traffic-mba | T2 | 2026-08-15
+- TrendScouters — Trend research methods guide | trendscouters.com/trend-research-methods-the-ultimate-guide-to-spotting-validating-and-acting-on-emerging-trends | T3 | 2026-08-15
+- Trustworthy A/B Tests: Pitfalls (eMetrics 2017) | exp-platform.com/Documents/2017-05-17EmetricsControlledExperimentsPitfallsKohaviNR.pdf | deck/paper | 1 | 2026-08-14
+- Turn into decisions: landing copy, cold email lines, roadmap, first users. 45-minute weekly sprint cadence.
+- UVID — Scenario planning in FP&A (triggers, rolling planning, Gartner 2025 stat) | uvidconsulting.com/blogs/scenario-planning-fpa | T2 | 2026-08-15
+- Umbrex — Competitive Positioning Map | umbrex.com/resources/frameworks/marketing-frameworks/competitive-positioning-map-e-g-price-vs-benefit | T2 | 2026-08-15
+- UnbuiltLab — Demand Signal Mining framework | unbuiltlab.com/blog/how-to-validate-startup-ideas-complete-2024-framework.html | T3 | 2026-08-15
+- Undecided Agency, Reddit Max case study | undecided.agency/post/reddit-max-case-study | tier 1 | 2026-08-15
+- Upgrow, X Ads agency | upgrow.io/x-ads-agency | tier 3 | 2026-08-15
+- Use Ahrefs to find bottom-funnel pages already ranking but not #1 — prioritize updates, linkbuilding, and brand mentions on those "gems".
+- Use Traffic Potential to rank opportunities.
+- Usercall — Analyze G2 reviews for competitive insights | https://www.usercall.co/analyze/g2-reviews-for-competitive-insights | tier 3 | 2026-08-15
+- Usermaven — 19 Common UTM Mistakes (and How to Fix Them) | usermaven.com/blog/critical-utm-mistakes | T2 | 2026-08-15
+- Using PMF to Drive Sustainable Growth | medium.com/growthhackers/using-product-market-fit-to-drive-sustainable-growth-58e9124ee8db | T1 | 2026-08-15
+- VWO SmartStats technical whitepaper (Stucchio; the engine Goodson designed) | vwo.com/downloads/VWO_SmartStats_technical_whitepaper.pdf | whitepaper | 1 | 2026-08-14
+- VWO's enhanced SmartStats (2024) | vwo.com/product-updates/enhanced-vwo-smartstats/ + vwo.com/why-us/technology/statistics/ | docs | 1 | 2026-08-14
+- Val Geisler, behavior-based sequences | Intercom podcast | tier 1 | 2026-08-15
+- Validate positioning claims with primary research: 8-12 expert interviews minimum for board quality; more in thin-data markets (Infomineo) (T2).
+- Validate shape over 6-12 months: sustained growth, cross-category spread, seasonality consistent across years (Spate) (T2).
+- Verify: return to customers with feature descriptions and measure predicted satisfaction lift (PROCESS, T1 — AgileData).
+- Vet findings with solution engineers and data scientists before reporting (validation step).
+- Video example: the first minute of your customer development interview | https://www.cindyalvarez.com/video-example-the-first-minute-of-your-customer-development-interview/ | blog | tier 1 | 2026-08-15
+- Visual-Paradigm — Five Forces pitfalls (labeling vs analysis; interdependence; coffee paradox) | skills.visual-paradigm.com/docs/understanding-porters-five-forces-essential-guide/competitive-strategy-basics/porters-five-forces-pitfalls | T2 | 2026-08-15
+- Vixen Digital, Pinterest for ecommerce (Galvan) | vixendigital.com | tier 2 | 2026-08-15
+- Watch update rollouts and correlate drops with update timing.
+- WebIQ/UTM Guard — UTM Parameter Best Practices for 2026 | webiq.app/blog/utm-best-practices-2026 | T2 | 2026-08-15
+- Webinar Recap: The AI Search Action Checklist with Aleyda Solis (AirOps) | https://www.airops.com/blog/webinar-aleyda-solis | webinar recap | 2 | 2026-08-15
+- Wellspring Digital chat with Adele Revella | https://wellspringdigital.com/blog/wellspring-digital-chat-adele-revella-founder-and-ceo-of-the-buyer-persona-institute/ | podcast transcript | tier 2 | 2026-08-15
+- What Are Vanity Metrics and How to Stop Using Them | amplitude.com/blog/vanity-metrics | T1 | 2026-08-15
+- What SEOs Get Wrong About AI Search | https://www.orbitmedia.com/blog/what-seos-get-wrong-about-ai-search/ | article | 1 | 2026-08-15
+- What You Need to Know About Profitable Email Onboarding (Marijana Kay podcast) | https://marijanakay.com/blog/content-love-21-email-onboarding | podcast | 2 | 2026-08-15
+- What is Category Design (Play Bigger) | https://www.playbigger.com/categorydesign | primary | tier 1 | 2026-08-14
+- What is Jobs to be Done (JTBD)? | https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca | essay | tier 1 | 2026-08-15
+- What is Peeking (optional stopping)? (glossary) | analytics-toolkit.com/glossary/peeking/ | glossary | 1 | 2026-08-14
+- What is Sample Size? (glossary) | analytics-toolkit.com/glossary/sample-size/ | glossary | 1 | 2026-08-14
+- What is Sequential Testing? (glossary) | analytics-toolkit.com/glossary/sequential-testing/ | glossary | 1 | 2026-08-14
+- What is a Bayesian statistical engine in A/B testing? | vwo.com/blog/bayesian-a-b-testing-a-powerful-reasoning-model/ | article | 2 | 2026-08-14
+- What is conversion copywriting? Definition from the OG | https://copyhackers.com/2022/06/what-is-conversion-copywriting/ | primary | tier 1 | 2026-08-14
+- When Should Your Business Consider Using Amazon DSP? | amzpathfinder.com | article | tier 2 | 2026-08-15
+- Whitespark tools/docs (referenced) | tier 2 | 2026-08-14
+- Why ChatGPT Cites One Page Over Another (1.4M prompts) | https://ahrefs.com/blog/why-chatgpt-cites-pages/ | study | 1 | 2026-08-15
+- Why Deliverability Matters | https://www.wordtothewise.com/2024/06/why-deliverability-matters/ | blog | 1 | 2026-08-15
+- Why I Believe in Categories, Just Not Category Design | https://www.kellblog.com/why-i-believe-in-categories-just-not-category-design/ | primary essay | tier 1 | 2026-08-14
+- Why Your Email Marketing Should be Based on the Customer Journey | https://www.holisticemailmarketing.com/blog/why-your-email-marketing-should-be-based-on-the-customer-journey/ | blog | 1 | 2026-08-15
+- Wikipedia — Bass diffusion model | en.wikipedia.org/wiki/Bass_diffusion_model | T2 | 2026-08-15
+- Will Critchlow — SearchPilot testing data | searchpilot.com | tier 1 | 2026-08-15
+- Win stakeholder support and track execution.
+- WorkMagic, How to measure connected TV + Branch/Tatari case | workmagic.io | tier 2 | 2026-08-15
+- Wrap governance around fixes.
+- Write go/no-go criteria BEFORE gathering data (existing skill; IdeaCrystal) (T2).
+- Write the decision, horizon, unit, scope before modeling (existing skill; McKinsey discipline) (T2).
+- Write tight, opinionated content that demonstrates expertise (recently adapted for AI-search citation: answer structure up front, citable claims).
+- Writing Better Onboarding Emails with Val Geisler (Brian Rhea podcast) | https://brianrhea.com/podcast/using-the-dinner-party-strategy-for-better-saas-onboarding-with-val-geisler/ | podcast | 2 | 2026-08-15
+- Your Competitive Analyst Should Not Be Named Harvey Balls | kellblog.com/your-competitive-analyst-should-not-be-named-harvey-balls | T1 | 2026-08-15
+- Your Customer Creation Equation — book page | conversionsciences.com/your-customer-creation-equation-by-brian-massey/ | book/1P | 1 | 2026-08-14
+- Your Growth Hacks Aren't Working ebook (Close) | https://resource-downloads.close.com/resources/steli_efti-your_growth_hacks_arent_working-ebook.pdf | ebook | 1 | 2026-08-15
+- ZAG Interactive — Common Mistakes with UTM Tracking Codes | zaginteractive.com/insights/articles/february-2021/common-errors-in-utm-tracking | T3 | 2026-08-15
+- Zag book excerpt: Checkpoint 11 — How Do You Explain Yourself? (trueline) | https://www.oreilly.com/library/view/zag-the-number-one/0321426770/ch24.html | primary book excerpt | tier 1 | 2026-08-14
+- Zag book excerpt: Checkpoint 6 — What Makes You the "Only"? | https://www.oreilly.com/library/view/zag-the-number-one/0321426770/ch19.html | primary book excerpt | tier 1 | 2026-08-14
+- Zapier — 64 Zapier examples for marketers & creatives | zapier.com/blog/automate-new-zapier-products-free | T2 | 2026-08-15
+- Zapier — RevOps best practices: Centralize your operations | zapier.com/blog/revops-best-practices | T2 | 2026-08-15
+- Zimt — Bottom-Up Market Sizing for B2B SaaS | zimt.ai/blog/how-to-do-bottom-up-market-sizing | T2 | 2026-08-15
+- ZoomInfo Pipeline — How to Use Reddit for Market Research | https://pipeline.zoominfo.com/marketing/reddit-market-research | tier 3 | 2026-08-15
+- a16z — 16 More Startup Metrics | a16z.com/16-more-startup-metrics | T1 | 2026-08-15
+- a16z/Euclid — David Haber: Market Structure Is the New TAM | insights.euclid.vc/p/david-haber-a16z-in-vertical-ai-market-structure-is-the-new-tam | T2 | 2026-08-15
+- cindyalvarez/customerdevelopment (question bank) | https://github.com/cindyalvarez/customerdevelopment | GitHub repo | tier 1 | 2026-08-15
+- domains/positioning/christopher-lochhead.md | practitioner-intelligence | T2 | 2026-08-14
+- domains/positioning/dave-kellogg.md | practitioner-intelligence | T1 | 2026-08-14
+- domains/positioning/geoffrey-moore.md | practitioner-intelligence | T1 | 2026-08-14
+- eComFuel Trends Report — 300 Stores and $3.5B | ecommercefuel.com/ecommerce-trends | T1 | 2026-08-15
+- ecommerceChris — Chris McCabe team bio ("I spent years at Amazon evaluating seller performance and enforcing policy") | ecommercechris.com/our-team/chris-mccabe | primary | tier 1 | 2026-08-15
+- holisticseo.digital case studies (referenced within same article) | tier 2 (self-reported) | 2026-08-14
+- industry-lens — Competitive Landscape Analysis: A Framework | industry-lens.com/resources/competitive-landscape-analysis | T2 | 2026-08-15
+- kevinindig.com AI search studies (recurring series) | https://www.kevinindig.com | essays | 1 | 2026-08-15
+- kevinindig.com AI search studies (referenced) | tier 1 | 2026-08-14
+- lilyray.tech + Amsive columns (referenced) | tier 1/2 | 2026-08-14
+- n8n (Nick Saraev) — AI Facebook ad spy workflow | https://n8n.io/workflows/5417-ai-facebook-ad-spy-tool-with-apify-openai-gemini-and-google-sheets/ | tier 3 | 2026-08-15
+- n8n — Top Marketing Automation Workflows (template library, 3,400+) | n8n.io/workflows/categories/marketing | T2 | 2026-08-15
+- r/digital_marketing thread (2020) CTR benchmark | reddit.com | tier 5 | 2026-08-15
+- seoClarity — 11 Common Hreflang Mistakes | seoclarity.net | tier 3 | 2026-08-15
+- syntheses/positioning.md (Lochhead, Kellogg, Moore, Neumeier, Raskin consensus) | practitioner-intelligence | T1/T2 | 2026-08-14
+- utmbuilder — Master UTM Naming Conventions | utmbuilder.com/utm-conventions | T2 | 2026-08-15
+
+Unique source entries: 834
